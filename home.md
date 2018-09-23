@@ -68,7 +68,7 @@
 -----
 <p><a href="https://discord.gg/6uTJs4X">Discord</a></p>
 
-**To Do**
+>**To Do**
 >{.is-danger}
 
                             
