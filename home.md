@@ -70,5 +70,5 @@
 
 >**To Do**
 >{.is-danger}
-
-                            
+>Update <p><a href=" https://github.com/tieandsuit/wiki2/blob/master/README.md ">README.md in GitHub</a></p>
+                      
