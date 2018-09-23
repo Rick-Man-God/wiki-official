@@ -1,5 +1,5 @@
-<!-- TITLE: E Pl Sample -->
-<!-- SUBTITLE: A quick summary of E Pl Sample -->
+<!-- TITLE: ePl Sample -->
+<!-- SUBTITLE: A quick summary of ePl Sample -->
 
 # ePL Sample
 
