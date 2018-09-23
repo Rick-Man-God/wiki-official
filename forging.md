@@ -37,5 +37,18 @@ Step 4
 -----
 Before we can start staking XEL we need… well we need XEL. Since this cryptocurrency works on a Proof of Stake protocol the more coins you have the more you’ll make. Grab your wallet address from the XEL server and send coins through your preferred exchange . Bittrex or Upbit .
 
+![Address](/uploads/wallet/address.jpg "Address")
 
+Now, once you fund your account, you will notice that you can’t forge XEL yet. There are three requirements to stake XEL:
 
+* You must have at least 1000 XEL
+* You have to wait 1400 blocks from your initial deposit to be able to stake XEL
+* You must have public key
+
+Since all we have to do to cover the first 2 requirements to stake XEL are some coins and a bit of patience, all we need now is a public address. We can create a public address by sending an outgoing transaction. You will pay 0.1  XEL for every transaction you make, so you can even send 0.1 XEL to create a public key (By doing this, you will only spend 0.1 XEL, which will be given to the miner who finds that block).
+
+Step 5
+-----
+ Make an outgoing transaction to create a public key. Click Send XEL and fill in the information. Since we want to keep as much as XEL as we can we will send 0.1 XEL with 0.1 XEL fee to the exchange market account we used to fund our wallet.
+ 
+ 
