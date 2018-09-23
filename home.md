@@ -58,4 +58,9 @@
 <p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
 <p>If you like to edit or submit something head over to <a href="https://github.com/tieandsuit/wiki2">GitHub</a></p> <p> or ask in <a href="https://discord.gg/6uTJs4X">Discord</a> Community chat </p>
 
-
+**Social Links**
+-----
+<p> <a href="https://twitter.com/elastic_coin">Twitter</a></p>
+<p> <a href="https://www.facebook.com/ElasticSupercomputer/">Facebook</a></p>
+<p> <a href="https://www.reddit.com/r/xel">Reddit</a></p>
+<p> <a href="https://bitcointalk.org/index.php?topic=1957064.0">Bitcointalk</a></p>
