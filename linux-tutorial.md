@@ -79,6 +79,8 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 -----
 
 **Installing elastic client**
+-----
+
 
 `Remember not to run Elastic as root user! `
 
