@@ -26,14 +26,14 @@
 <p> <a href="linux-miner-tutorial">Linux Miner Tutorial</a></p>
 <p> <a href="start-the-xel-miner">Start The Xel Miner</a></p>
 
-**ELASTIC PL (ePL)**
+**Elastic (ePL)**
 -----
 <p> <a href="about-epl">About</a></p>
 <p> <a href="e-pl-programming">ePL Programming</a></p>
 <p> <a href="e-pl-submitting-tasks">ePL Submitting Tasks</a></p>
 <p> <a href="e-pl-advanced-tactics">ePL Advanced Tactics</a></p>
 
-**CODE SAMPLES (ePL)**
+**Code Samples (ePL)**
 -----
 <p> <a href="e-pl-sample">ePL Sample</a></p>
 <p> <a href="e-pl-simple-job">ePL Sample Job</a></p>
