@@ -6,4 +6,6 @@
 >
 >Submitting Your Task to the Blockchain Screenshots
 >Dev Emails 
+>Exchanges where traded 
+>
 >{.is-danger}
