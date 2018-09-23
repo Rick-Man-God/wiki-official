@@ -24,6 +24,7 @@
 <p> <a href="windows-miner-tutorial">Windows miner tutorial</a></p>
 <p> <a href="MacOS-miner-tutorial">MacOS miner tutorial</a></p>
 <p> <a href="linux-miner-tutorial">Linux miner tutorial</a></p>
+<p> <a href="start-the-xel-miner">Start The Xel Miner</a></p>
 
 **Other Links**
 -----
