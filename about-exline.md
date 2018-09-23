@@ -18,3 +18,7 @@ The XEL network is functioning very well, yet it was never easy to interact with
 <img src="/uploads/xeline/xeline-1.png" style="float: right;" />
 This is some text
 </p> 
+
+<div style="float:left"></uploads/xeline/xeline-1.png></div>
+<div style="float:right">text</div>
+<div style="clear:both"/>
