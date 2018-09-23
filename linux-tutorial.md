@@ -163,3 +163,27 @@ screen ./run.sh
 What this command do it’ll pull latest changes from github, compile it with maven and launch Elastic. Check if everything launch as it should.
 
 `If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.` 
+
+You should be back in console and Elastic is running in background so if you exit your server Elastic will be still running.
+If you want to go back to Elastic (for example to shutdown it) type
+
+
+```text
+screen -r
+```
+
+This command should bring your screen instance of elastic (even if you login to your node next time)
+If you want to shutdown elastic hit Ctrl + C. elastic and screen itself should exit.
+
+Now (once Elastic is down) i.e. you can update Elastic to the newest version and launch it again
+
+
+```text
+cd /home/elastic/elastic/Litewallet-Mainnet
+​
+git pull
+​
+./compile.sh
+​
+screen ./run.sh
+```
