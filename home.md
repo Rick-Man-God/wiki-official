@@ -15,6 +15,8 @@
 -----
 <p> <a href="about-exline">About</a></p>
 <p> <a href="windows-xeline">Windows - xeline tutorial</a></p>
+<p> <a href="mac-os-xeline">MacOS - xeline tutorial</a></p>
+
 
 **Other Links**
 -----
