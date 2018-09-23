@@ -82,7 +82,8 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 -----
 
 
-`Remember not to run Elastic as root user! `
+>Remember not to run Elastic as root user! 
+>{.is-danger}
 
 If at this point you are logged in as root user, create a new account and do the rest of the command with this new user. You can skip this step if you have access to a normal user.
 
@@ -100,7 +101,8 @@ passwd elastic
 
 Logout from root account. We don’t need it anymore. 
 
-`Remember not to login to root account anymore!`
+>Remember not to login to root account anymore!
+>{.is-danger}
 
 If by accident you’ll login to your root account and run for example Elastic from it, some file permission will change and you’ll not be able to run Elastic with this newly created user anymore.
 
