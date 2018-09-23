@@ -19,3 +19,23 @@ First thing you’ll need is an XEL wallet! head over to the  http://xelastic.wi
 
 
 ![Xel Wallet App](/uploads/wallet/xel-wallet-app.jpg "Xel Wallet App")
+
+
+Step 2
+-----
+ Install the XEL software in your preferred language and folder. this process is quite fast.
+ 
+Step 3
+-----
+ Open the XEL Server and create a new account. The XEL software will generate a seed that can be used as a backup to restore your account or to use it somewhere else. Make sure you save this key in a safe place before moving forward. The XEL setup will also prompt you for this seed when clicking next.
+ 
+ ![Passphrase](/uploads/wallet/passphrase.jpg "Passphrase")
+
+`You are now the proud owner of an XEL account..`
+
+Step 4
+-----
+Before we can start staking XEL we need… well we need XEL. Since this cryptocurrency works on a Proof of Stake protocol the more coins you have the more you’ll make. Grab your wallet address from the XEL server and send coins through your preferred exchange . Bittrex or Upbit .
+
+
+
