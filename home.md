@@ -56,7 +56,6 @@
 <p> <a href="https://explorer.xel.org/">Explorer</a></p>
 <p> <a href="https://xel.org/">Elastic Website</a></p>
 <p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
-<p>If you like to edit or submit something head over to <a href="https://github.com/tieandsuit/wiki2">GitHub</a></p> <p> or ask in <a href="https://discord.gg/6uTJs4X">Discord</a> Community chat </p>
 
 **Social Links**
 -----
