@@ -20,6 +20,7 @@
 
 **XEL Miner**
 -----
+<p> <a href="xel-miner-about">About</a></p>
 
 
 **Other Links**
