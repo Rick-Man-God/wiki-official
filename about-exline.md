@@ -14,4 +14,7 @@ The XEL network is functioning very well, yet it was never easy to interact with
 
 -----
 
-
+<p style="width: 500px;">
+<img src="/uploads/xeline/xeline-1.png" style="float: right;" />
+This is some text
+</p> 
