@@ -14,8 +14,8 @@ Xeline basically is a wallet software which lets you easily upload your ePL file
 
 The installation is straightforward.
 
-<p> <a href="windows-xeline">Windows </a></p>
-<p> <a href="mac-os-xeline">MacOS </a></p>
-<p> <a href="linux-xeline">Linux </a></p>
+* <p> <a href="windows-xeline">Windows </a></p>
+* <p> <a href="mac-os-xeline">MacOS </a></p>
+* <p> <a href="linux-xeline">Linux </a></p>
 
 
