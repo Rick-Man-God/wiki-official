@@ -15,7 +15,7 @@
 -----
 <p> <a href="about-exline">About</a></p>
 
-Other Links
+**Other Links**
 -----
-https://github.com/tieandsuit/wiki2
+<p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
 
