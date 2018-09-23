@@ -29,6 +29,7 @@
 **ELASTIC PL (ePL)**
 -----
 <p> <a href="about-epl">About</a></p>
+<p> <a href="e-pl-programming">ePL Programming</a></p>
 
 **Other Links**
 -----
