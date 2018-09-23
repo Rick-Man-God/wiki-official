@@ -7,7 +7,7 @@
 **Lite Wallet**
 Web Wallet           http://167.99.39.104/web-wallet 
 Windows Tutorial http://167.99.39.104/windows-tutorial
-
+MacOS Tutorial    http://167.99.39.104/mac-os-tutorial
 
 
 
