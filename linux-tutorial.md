@@ -187,3 +187,22 @@ git pull
 
 screen ./run.sh
 ```
+
+At this point you have full relay node up and runnig! You are already helping the network, you don’t need to know anything more if you just wanted to help with relay blocks/txs. Just remember to update your node when a new version will show up.
+
+But you might also want to login to your wallet with the browser to start forging for example (or just see if it work as it should, see blocks, txs etc).
+You’ll also need to create an SSL cert to protect yourself against Main-In-The-Middle attack.
+
+First, you need to stop your Elastic node (see above) and do some config change in order to be able to access it remotely.
+
+Next, we need to generate an SSL certificate
+
+
+```text
+cd /home/elastic/elastic/Litewallet-Mainnet
+```
+
+
+```text
+keytool -genkeypair -keyalg RSA -keysize 2048 -validity 3650 -keystore keystore
+```
