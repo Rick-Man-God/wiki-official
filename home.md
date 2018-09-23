@@ -26,6 +26,11 @@
 <p> <a href="linux-miner-tutorial">Linux Miner Tutorial</a></p>
 <p> <a href="start-the-xel-miner">Start The Xel Miner</a></p>
 
+**ELASTIC PL (ePL)**
+-----
+
+
+
 **Other Links**
 -----
 <p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
