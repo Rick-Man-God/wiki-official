@@ -16,3 +16,11 @@ Now download elastic client executable
 
 **Installing and Running Elastic Client**
 
+
+Go to the elastic client download directory and run .exe file
+
+`elastic-client-3.1.1.exe`
+
+To access your wallet open your browser and go to
+
+`http://localhost:17876/`
