@@ -30,13 +30,17 @@ If you are using Linux, start your console (Alt+Ctrl+T) and type:
  
   Install Java
 
-`sudo apt install software-properties-common -y
-​
+
+```text
+sudo apt install software-properties-common -y
+
 sudo add-apt-repository ppa:webupd8team/java
-​
+
 sudo apt update
-​
-sudo apt install oracle-java8-installer -y`
+
+sudo apt install oracle-java8-installer -y
+```
+
 
 
 
