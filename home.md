@@ -18,7 +18,7 @@
 <p> <a href="mac-os-xeline">MacOS - xeline tutorial</a></p>
 <p> <a href="linux-xeline">Linux - xeline tutorial</a></p>
 
-**XEL MINER**
+**XEL Miner**
 -----
 
 
