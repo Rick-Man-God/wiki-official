@@ -1,4 +1,4 @@
-# Main Page
+# Elastic XEL - community wiki
 
 **Basic Information**
 
