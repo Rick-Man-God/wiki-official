@@ -7,6 +7,8 @@ This is a step by step instruction of how to setup and run an elastic node on a 
 -----
 
 **Preparing a Server for Client installation**
+-----
+
 
 How to connect to your new server?
 
