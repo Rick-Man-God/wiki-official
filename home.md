@@ -15,3 +15,7 @@
 -----
 <p> <a href="about-exline">About</a></p>
 
+Other Links
+-----
+https://github.com/tieandsuit/wiki2
+
