@@ -23,7 +23,8 @@ But Xeline is not only a tool for scientists and programmers. By offering basic 
 
 ![Xeline 3](/uploads/xeline/xeline-3.png "Xeline 3")
 
-12-word mnemonic phrase, passphrase
+>12-word mnemonic phrase, passphrase
+>{.is-danger}
 -----
 Your XEL coins are protected by a 12-word mnemonic phrase. It is absolutely essential that you back up this phrase as it will allow you to recover your coins at any time. Since your coins never leave your possession (nobody manages your coins for you) this is the only way to restore them in case of a hard drive failure or a data loss.
 
