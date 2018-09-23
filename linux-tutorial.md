@@ -10,4 +10,4 @@ This is a step by step instruction of how to setup and run an elastic node on a 
 
 How to connect to your new server?
 
-<p>If you are using Windows, download the latest <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">Putty<a>Client and use these  instructions to connect to your server:</a> </p>
+<p>If you are using Windows, download the latest <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">Putty</a>Client and use these  instructions to connect to your server:</a> </p>
