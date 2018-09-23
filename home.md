@@ -41,6 +41,11 @@
 <p> <a href="e-pl-bitcoin-mining">ePL Bitcoin Mining</a></p>
 <p> <a href="e-pl-travelling-salesman">ePL Travelling Salesman</a></p>
 
+**Forging**
+-----
+<p> <a href="forging">Forging</a></p>
+
+
 **GitHub Links**
 -----
 <p> <a href="github-links">GitHub Links</a></p>
