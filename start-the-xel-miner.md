@@ -42,8 +42,8 @@ Now, you have to give the node some time. You want it to synchronize the blockch
 -----
 Installing the Miner
 -----
-<p> The installation of the miner is <a href="home#elastic-pl-e-pl">covered in our article on how to become a master at ePL.<a>If you haven’t done so, please follow the installation instructions over there</a></p>
- covered in our article on how to become a master at ePL
+<p> The installation of the miner is <a href="home#elastic-pl-e-pl">covered in our article on how to become a master at ePL. </a></p>If you haven’t done so, please follow the installation instructions over there.
+
 
 -----
 
