@@ -12,29 +12,37 @@ How to connect to your new server?
 
 <p>If you are using Windows, download the latest <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">Putty</a> Client and use these  instructions to connect to your server:</a> </p>
 
-`https://mediatemple.net/community/products/dv/204404604/using-ssh-in-putty-`
+
+```text
+https://mediatemple.net/community/products/dv/204404604/using-ssh-in-putty-
+```
+
 
 If you are using Linux, start your console (Alt+Ctrl+T) and type:
 
-`ssh username@youriporhostname.xyz`
+
+```text
+ssh username@youriporhostname.xyz
+```
+
 
  Once you are logged in you will start the installation of dependencies for your Elastic node to compile
 
-`sudo apt update && sudo apt upgrade && sudo apt dist-upgrade`
+
+```text
+sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
+```
+
 
 (at this point, if you don’t have sudo installed and you are using a root account, just remove sudo from all the commands that will be shown in this tutorial)
 
  Install some basic packages
  
- 
 ```text
 sudo apt install mc ntp fail2ban htop screen nano -y
 ```
 
-
   Install Java
-
-
 
 ```text
 sudo apt install software-properties-common -y
