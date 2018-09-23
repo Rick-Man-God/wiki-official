@@ -31,7 +31,9 @@ If you are using Linux, start your console (Alt+Ctrl+T) and type:
 sudo apt install mc ntp fail2ban htop screen nano -y
 ```
 
+
   Install Java
+
 
 
 ```text
