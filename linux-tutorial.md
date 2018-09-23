@@ -286,7 +286,7 @@ cd /home/elastic/elastic/Litewallet-Mainnet
 screen ./run.sh
 ```
 
-`If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.` 
+If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key. 
 -----
 To access ur wallet open ur browser and go to
 
