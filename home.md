@@ -37,7 +37,9 @@
 -----
 <p> <a href="e-pl-sample">ePL Sample</a></p>
 <p> <a href="e-pl-simple-job">ePL Sample Job</a></p>
-
+<p> <a href="e-pl-storage-job">ePL Storage Job</a></p>
+<p> <a href="e-pl-bitcoin-mining">ePL Bitcoin Mining</a></p>
+<p> <a href="e-pl-travelling-salesman">ePL Travelling Salesman</a></p>
 
 **Other Links**
 -----
