@@ -64,3 +64,4 @@
 <p> <a href="https://www.facebook.com/ElasticSupercomputer/">Facebook</a></p>
 <p> <a href="https://www.reddit.com/r/xel">Reddit</a></p>
 <p> <a href="https://bitcointalk.org/index.php?topic=1957064.0">Bitcointalk</a></p>
+<a href="https://discord.gg/6uTJs4X">Discord</a></p>
