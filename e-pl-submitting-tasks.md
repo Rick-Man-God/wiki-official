@@ -18,4 +18,9 @@ The installation is straightforward.
 * <p> <a href="mac-os-xeline">MacOS </a></p>
 * <p> <a href="linux-xeline">Linux </a></p>
 
+-----
 
+Preparing Your ePL File
+-----
+
+We will use our demonstration task <a href="https://github.com/xel-software/xeline/blob/master/demos/find_prime.epl">found here</a> in this tutorial. Save it to a file called “my_own_prime_demo.epl”. While this demo is already integrated in the Xeline wallet and can be run right away, we want to create this demo project from scratch here – for learning purposes. At this moment, your ePL file contains just the program logic. However, to submit it to the Blockchain you have to configure a few parameters which we can “metadata. Those parameters tell Xeline how much you are willing to spend for that job, how long it is meant to be running, how many solutions you are interested in, how many iterations your job is meant to run, and so on. We have not yet covered the iteration part, we save that for later. Metadata is added to your ePL file at the top. So go ahead, an add those lines to the top of your ePL program:
