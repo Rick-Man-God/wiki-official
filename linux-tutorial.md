@@ -201,8 +201,7 @@ Next, we need to generate an SSL certificate
 ```text
 cd /home/elastic/elastic/Litewallet-Mainnet
 ```
-
-
+-----
 ```text
 keytool -genkeypair -keyalg RSA -keysize 2048 -validity 3650 -keystore keystore
 ```
