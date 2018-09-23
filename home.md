@@ -19,3 +19,9 @@
 -----
 <p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
 
+
+Other
+-----
+If you like to edit or submint something head over to <p> <a href="https://github.com/tieandsuit/wiki2">GitHub</a></p> or ask in <p> <a href="https://discord.gg/6uTJs4X">Discord</a></p> Community chat 
+
+
