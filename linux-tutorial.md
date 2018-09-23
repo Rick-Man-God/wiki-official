@@ -180,10 +180,10 @@ Now (once Elastic is down) i.e. you can update Elastic to the newest version and
 
 ```text
 cd /home/elastic/elastic/Litewallet-Mainnet
-​
+
 git pull
-​
+
 ./compile.sh
-​
+
 screen ./run.sh
 ```
