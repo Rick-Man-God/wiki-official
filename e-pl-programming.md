@@ -230,6 +230,252 @@ function primetest {
 }
 ```
 
-What you see here is basically a simple trial-division based primality check which works on m[2](we have stored there our prime candidate before) as the input and sets m[1] = 1 if the candidate actually is a prime number, and m[1] = 0 otherwise. This value can be considered the “return value” of our function.
+What you see here is basically a simple trial-division based primality check which works on `m[2]`(we have stored there our prime candidate before) as the input and sets `m[1] = 1` if the candidate actually is a prime number, and `m[1] = 0` otherwise. This value can be considered the “return value” of our function.
 
 One novelty you have probably notices, is the strange loop construct that you have probably never seen before:
+
+
+```java
+repeat(u[99],20000,20000){
+...
+}
+```
+
+Before digging deeper into the characteristics of ePL’s loops, we need to take a look what makes loops so evil. Remember, we want to have a programming language where it is known before hand when it will terminate and how much memory it will use to avoid all sorts of DOS attacks where tasks are submitted that never terminate. But why is it so hard to assess this with traditional loops. Well, traditional loops suffer from the so-called halting problem. The halting problem basically is the problem of determining whether a program will terminate or whether it will run forever.
+
+While it is possible to do it for a C loop like this
+
+
+```java
+for(int i=0; i<1000: ++i){
+   ...
+}
+```
+
+it already becomes impossible for simple constructs like this
+
+
+```java
+int entropy = rand();
+for(int i=0; i<1000: ++i){
+   if (entropy < 10000) --i; if (entropy > 50000) ++i;
+   ...
+}
+```
+
+Here, the termination of the for loop is totally depending on the value of `entropy`. Of course, in this simple example we can see with our own eyes what is going to happen. If `entropy < 10000` then the loop runs forever. If `10000 <= entropy <= 50000`, then the loop iterates exactly 1000 times, and for`entropy > 50000` only 500 times. For the general case, however, there is no efficient way to algorithmically tell whether a C program will terminate, and when.
+
+To eliminate this issue, ePL introduces a loop in the form of:
+
+
+```java
+repeat(index,iterations,max_iterations){
+...
+}
+```
+
+where the index is an array slot, the iterations is an expression which may be constant but which also may be an array slot of your choice, and the max_iterations is a constant value giving a maximum amount of iterations after which the loop exits. Internally, when translated back to C, our loop
+
+
+```java
+repeat(u[99],20000,20000){
+...
+}
+```
+
+translates to
+
+
+```java
+
+int counter = 0; // immutable by user's code
+u[99]=0;
+for(int i=0; i<20000; ++i){
+    ...
+    counter++;
+    u[99] = counter;
+    if(counter==20000) break;
+}
+```
+
+The counter variable cannot be changed by the ePL code itself and will count to the maximum iteration count before it causes the loop to exit – regardless of what your code does. When parsing your code and checking if your codes complexity is within certain bounds, it will be always assumed that your loop will run for the maximum amount of iterations that you have specified. Make sure to specify a sufficiently large number here, otherwise your loops will exit prematurely.
+
+That is basically it, you have written your first program in ePL. Now, it’s time to test it.
+
+-----
+Compiling and Testing
+-----
+
+In order to test your program for syntactical correctness, you can use xel_miner. Assuming your program is called find_prime.epl, you can use this command
+
+
+
+```python
+./xel_miner --validate --test-avoidcache --test-vm find_prime.epl
+```
+
+to do a first run of your code. The `--validate` flag tells xel_miner to look for the use of uninitialized variables which are not guaranteed to be zero at all times. You want to avoid that behaviour. Furthermore, programs that do not pass this check will not be accepted on the Blockchain. The `--test-vm` flags tells xel_miner to not start mining, but to run (and check it for correctness) a local ePL file on your computer.
+
+If everything goes well, you will be presented with an output like this:
+
+
+```text
+** Elastic Compute Engine **
+   Miner Version: 0.9.6
+   ElasticPL Version: 0.9.4
+[16:31:29] DEBUG: Skipping recompilation to be blazing fast
+[16:31:29] DEBUG: TestVM: block id '123456789'
+[16:31:29] DEBUG: TestVM: work id '987654321'
+[16:31:29] DEBUG: WCET main tester status: OFF
+[16:31:29] DEBUG: WCET verify tester status: OFF
+[16:31:29] DEBUG: TestVM: multiplicator '0000......0000'
+[16:31:29] DEBUG: TestVM: pubkey '0000......0000'
+[16:31:29] DEBUG: TestVM: target '0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF'
+[16:31:29] DEBUG: storage size: 0
+[16:31:29] DEBUG: Library 'job_987654321' Loaded
+[16:31:29] DEBUG: Bounty Found: false
+[16:31:29] DEBUG: POW Found: false
+[16:31:29] DEBUG: POW Hash: 4E95CBA872172C0596BE7CB482703EE4
+[16:31:29] DEBUG: Compiler Test Complete
+[16:31:29] Exiting xel_miner
+[16:31:29] Cleaning up
+```
+
+If everything went well, and you didn’t receive any compilation errors, it means that your code is syntactically correct – does not yet tell us much about whether it is doing what you want to do; this is something we will test later.
+
+But first of all, you might be interested in how your program looks like when compiled into C. You can take a look by running
+
+
+```text
+cat work/job_987654321.h
+```
+
+and you will see something like this:
+
+
+```java
+void main_987654321(uint32_t *, uint32_t, uint32_t *, uint32_t *, uint32_t *);
+void primetest_987654321();
+void verify_987654321(uint32_t *, uint32_t, uint32_t *, uint32_t *, uint32_t *);
+
+void main_987654321(uint32_t *bounty_found, uint32_t verify_pow, uint32_t *pow_found, uint32_t *target, uint32_t *hash) {
+	verify_987654321(bounty_found, verify_pow, pow_found, target, hash);
+}
+
+void primetest_987654321() {
+	u[1] = 0;
+	if ((u[2]) <= (1)) {
+		u[1] = 0;
+	}
+	else {
+		if ((u[2]) <= (3)) {
+			u[1] = 0;
+		}
+		else {
+			if ((((((2) != 0) ? (u[2]) % (2) : 0)) == (0)) || (((((3) != 0) ? (u[2]) % (3) : 0)) == (0))) {
+				u[1] = 0;
+			}
+			else {
+				u[3] = 5;
+				u[1] = 1;
+				int loop87;
+				for (loop87 = 0; loop87 < (20000); loop87++) { if (loop87 >= 20000) break;
+					u[99] = loop87;
+					if ((((((u[3]) != 0) ? (u[2]) % (u[3]) : 0)) == (0)) || ((((((u[3]) + (2)) != 0) ? (u[2]) % ((u[3]) + (2)) : 0)) == (0))) {
+						u[1] = 0;
+						break;
+					}
+					if (((u[3]) * (u[3])) > (u[2])) {
+						break;
+					}
+					u[3] += 6;
+				}
+			}
+		}
+	}
+}
+
+void verify_987654321(uint32_t *bounty_found, uint32_t verify_pow, uint32_t *pow_found, uint32_t *target, uint32_t *hash) {
+	u[2] = m[0];
+	u[1] = 0;
+	if (((m[0]) > (10000)) && ((m[0]) < (20000))) { primetest_987654321(); } *bounty_found = (uint32_t)((((m[0]) > (10000)) && ((m[0]) < (20000))) && ((u[1]) == (1)) != 0 ? 1 : 0);
+	u[57] = m[1];
+	u[56] = m[2];
+	u[55] = m[3];
+	u[54] = m[4];
+	if (verify_pow == 1)
+		*pow_found = check_pow(u[57],u[56],u[55],u[54], &m[0], &target[0], &hash[0]);
+	else
+		*pow_found = 0;
+}
+```
+
+We won’t go into detail and go through every line of it. Rather, we wanted to show you how you can actually compile your ePL program into C in order to understand how your ePL will be translated in the end and help you debug problems that you might face during development. For now, we have just verified that your code is syntactically correct but not if it produces the correct results.
+
+You can try a test-mining run by calling xel_miner like this (important: always use –test-avoidcache to disable caching, this may cause problems during testing)
+
+
+```java
+./xel_miner --test-avoidcache --test-cont-bounty --test-vm prime.epl
+```
+
+depending on the complexity of your problem, you will need to wait some time until you get your first result. For testing purpose, it might be wise to lessen the requirements inside your `verify_bty(...)` call during your local testing activities to get your result quicker. In our case, the result should be displayed very quickly:
+
+
+```text
+** Elastic Compute Engine **
+   Miner Version: 0.9.6
+   ElasticPL Version: 0.9.4
+[20:08:09] DEBUG: Skipping recompilation to be blazing fast
+[20:08:09] DEBUG: TestVM: block id '123456789'
+[20:08:09] DEBUG: TestVM: work id '987654321'
+[20:08:09] DEBUG: WCET main tester status: OFF
+[20:08:09] DEBUG: WCET verify tester status: OFF
+[20:08:09] DEBUG: TestVM: multiplicator '0000....0000'
+[20:08:09] DEBUG: TestVM: pubkey '0000....0000'
+[20:08:09] DEBUG: TestVM: target '0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF'
+[20:08:09] DEBUG: storage size: 0
+[20:08:09] DEBUG: Library 'job_987654321' Loaded
+[20:08:09] >> STARTING CONTINUOUS TEST, THIS MAY TAKE VERY LONG DEPENDING ON YOUR PROBLEM <<
+[20:08:17] ran 5000000 iterations, still working ...
+[20:08:18] ********************************
+[20:08:18] FOUND A SOLUTION TO YOUR PROBLEM
+[20:08:18]  we will dump all 12 input ints
+[20:08:18] ********************************
+[20:08:18] m[0]	=	18503
+[20:08:18] m[1]	=	3294169169
+[20:08:18] m[2]	=	2082860469
+[20:08:18] m[3]	=	2676999779
+[20:08:18] m[4]	=	18503
+[20:08:18] m[5]	=	3095193060
+[20:08:18] m[6]	=	3819580374
+[20:08:18] m[7]	=	2676985380
+[20:08:18] m[8]	=	3095178659
+[20:08:18] m[9]	=	670245767
+[20:08:18] m[10]	=	0
+[20:08:18] m[11]	=	1
+[20:08:18] DEBUG: Bounty Found: true
+[20:08:18] DEBUG: POW Found: false
+[20:08:18] DEBUG: POW Hash: 6F71E050C9A3B5A4B8A5686CB47EB17E
+[20:08:18] DEBUG: Compiler Test Complete
+[20:08:18] Exiting xel_miner
+[20:08:18] Cleaning up
+```
+
+From this line here
+
+
+```text
+[20:08:18] DEBUG: Bounty Found: true
+```
+
+you can see, that indeed a bounty has been found. And since we have used a very simple way to define solution candidates, you can see the result right away:
+
+
+```text
+[20:08:18] m[0]	=	18503
+```
+
+Indeed, it is a prime number between 10000 and 20000.
+
+Are you ready to push your first ePL program to the Blockchain?
