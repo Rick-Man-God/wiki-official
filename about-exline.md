@@ -10,6 +10,6 @@ The XEL network is functioning very well, yet it was never easy to interact with
 
 -----
 
-<img id="myImg" src="http://167.99.39.104/uploads/xeline/xeline-1.png" alt="xeline" style="width:100%;max-width:300px">
+<img id="myImg" src="uploads/xeline/xeline-1.png" alt="xeline" style="width:100%;max-width:300px">
 
 -----
