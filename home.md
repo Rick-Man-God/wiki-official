@@ -6,7 +6,7 @@
 
 **Lite Wallet**
 <p> <a href="web-wallet">Web Wallet</a>.</p>
-<p> <a href="http://167.99.39.104/windows-tutorial">Windows Tutoria</a>.</p>
-<p> <a href="http://167.99.39.104/mac-os-tutorial">MacOS Tutorial</a>.</p>
+<p> <a href="windows-tutorial">Windows Tutoria</a>.</p>
+<p> <a href="mac-os-tutorial">MacOS Tutorial</a>.</p>
 
 
