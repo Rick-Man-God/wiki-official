@@ -112,7 +112,7 @@ This has a very good reason: XEL allows you more complex programs with a fairly 
 
 > Important warning: It is the developers responsibility to code the logic in main and verify correctly. Especially, it is important to make sure that the logic (in particular, the verify_bty logic which we will read more about later on) in verify actually evaluates to true whenever the one in main evaluates to true. An incorrect implementation by the developer might cause results to be accepted, that does not really reflect your desired outcome. Or even more importantly, it can cause that valid results found in main are rejected by the Blockchain because they do not pass verify. Surely, this sounds still very abstract to you, but it will make more sense as we dig deeper into this tutorial.
 >{.is-danger}
- Anyway, for now, things are very easy: in our particular case, there is no possibility to do an asymmetrical verification as finding primes is as complex as verifying them. To keep the code clean, we therefore add the entire logic into `verify`, and let the `main` function just call `verify():`
+ >Anyway, for now, things are very easy: in our particular case, there is no possibility to do an asymmetrical verification as finding primes is as complex as verifying them. To keep the code clean, we therefore add the entire logic into `verify`, and let the `main` function just call `verify():`
  
  
 ```java
