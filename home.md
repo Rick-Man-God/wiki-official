@@ -41,6 +41,11 @@
 <p> <a href="e-pl-bitcoin-mining">ePL Bitcoin Mining</a></p>
 <p> <a href="e-pl-travelling-salesman">ePL Travelling Salesman</a></p>
 
+**GitHub Links**
+-----
+
+
+
 **Other Links**
 -----
 <p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
