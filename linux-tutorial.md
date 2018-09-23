@@ -205,3 +205,91 @@ cd /home/elastic/elastic/Litewallet-Mainnet
 ```text
 keytool -genkeypair -keyalg RSA -keysize 2048 -validity 3650 -keystore keystore
 ```
+
+You’ll be asked here for some basic info about your certificate (fill it all with Elastic word) AND for passphrase. Remember to set here some strong password (min 32 random chars, best use password generator), paste here and keep it safe. You’ll need that password in a minute.
+Launch mc and go to your Elastic-XEL-Litewallet/conf directory. When you’re in conf directory minimize MC (Ctrl + O) Type
+
+
+```text
+touch nxt.properties
+```
+
+This will be the file where you customize any default properties elastic has. If you want to see all of that properties there are in nxt-default.properties file. You can go to this directory with mc, mark that file and hit F4 to see it contents (you’ll be asked here to choose default editor, nano is quite easy). When you stop reading and want to exit nano hit Ctrl + X (and hit N to not save any changes). Remember, you can’t change content of nxt-default.properties because everything you’ll change there will be overwritten next time you’ll update your elastic. Thats why we created a new file in conf directory.
+So, go back to conf/nxt.properties, highlight that file in MC, and edit it (F4). You’ll see an empty file. Paste the following lines there:
+
+
+```text
+# Hosts from which to allow http/json API requests, if enabled. Set to * to
+​
+# allow all. Can also specify networks in CIDR notation, e.g. 192.168.1.0/24.
+​
+nxt.allowedBotHosts=*
+​
+# Host interface on which to listen for http/json API request, default localhost
+​
+# only. Set to 0.0.0.0 to allow the API server to accept requests from all
+​
+# network interfaces, including IPv6.
+​
+nxt.apiServerHost=0.0.0.0
+​
+# Password that should be provided when executing protected (administrative) API
+​
+# requests.
+​
+# Please choose a decent password here. Preferably, use a password generator.
+​
+# Password protection is disabled and password is not needed when the API server
+​
+# only listens on the localhost interface, i.e. when 
+​
+# nxt.apiServerHost=127.0.0.1.
+​
+nxt.adminPassword=generateSomeAdminAPIPasswordAndPasteHere
+​
+# Enable SSL for the API server (also need to set nxt.keyStorePath and
+​
+# nxt.keyStorePassword).
+​
+# Non-SSL connections will be disabled if nxt.apiServerSSLPort is equal to
+​
+# nxt.apiServerPort.
+​
+# Otherwise, both SSL and non-SSL connections will be accepted.
+​
+nxt.apiSSL=true
+​
+# keystore file and password, required if uiSSL or apiSSL are enabled.
+​
+nxt.keyStorePath=keystore
+​
+nxt.keyStorePassword=passwordYouProvidedDuringSSLCertGeneration
+```
+
+As you can see, adminPassword is “generateSomeAdminAPIPasswordAndPasteHere”. Again, generate yet another password here. You don’t need to save this password anywhere because you don’t need it. It just has to be set when you are opening your node to the world.
+
+keyStorePassword is “passwordYouProvidedDuringSSLCertGeneration”. Replace it with password you generated during the SSL step.
+
+Save your changes by hitting Ctrl + X (you’ll be asked if you want to save, hit Y or if you have Ubuntu installed in different language, it might be a key corresponding to “Yes” word in your language) and you should be back in MC. Exit from mc (F10):
+-----
+**Running the node**
+
+
+```text
+cd /home/elastic/elastic/Litewallet-Mainnet
+```
+
+
+```text
+screen ./run.sh
+```
+
+`If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.` 
+
+To access ur wallet open ur browser and go to
+
+
+```text
+https://your_server_ip_address_or_hostname:17876
+```
+
