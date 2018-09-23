@@ -13,5 +13,5 @@
 
 **XELINE Wallet**
 -----
-
+<p> <a href="about-exline">About</a>.</p>
 
