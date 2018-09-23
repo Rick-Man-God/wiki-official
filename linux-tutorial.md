@@ -167,8 +167,6 @@ screen ./run.sh
 What this command do it’ll pull latest changes from github, compile it with maven and launch Elastic. Check if everything launch as it should.
 
 If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
------
-
 
 You should be back in console and Elastic is running in background so if you exit your server Elastic will be still running.
 If you want to go back to Elastic (for example to shutdown it) type
@@ -278,9 +276,9 @@ keyStorePassword is “passwordYouProvidedDuringSSLCertGeneration”. Replace it
 
 Save your changes by hitting Ctrl + X (you’ll be asked if you want to save, hit Y or if you have Ubuntu installed in different language, it might be a key corresponding to “Yes” word in your language) and you should be back in MC. Exit from mc (F10):
 
------
 
 **Running the node**
+-----
 
 
 ```text
@@ -293,7 +291,7 @@ screen ./run.sh
 ```
 
 If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key. 
------
+
 To access ur wallet open ur browser and go to
 
 
