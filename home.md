@@ -30,7 +30,7 @@
 -----
 <p> <a href="about-epl">About</a></p>
 <p> <a href="e-pl-programming">ePL Programming</a></p>
-<p> <a href="e-pl-submitting-tasks">epl Submitting Tasks</a></p>
+<p> <a href="e-pl-submitting-tasks">ePL Submitting Tasks</a></p>
 
 
 **Other Links**
