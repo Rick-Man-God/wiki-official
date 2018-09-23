@@ -30,7 +30,6 @@
 -----
 <p> <a href="about-epl">About</a></p>
 
-
 **Other Links**
 -----
 <p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
