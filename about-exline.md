@@ -21,4 +21,10 @@ Store, send and receive XEL with xeline
 -----
 But Xeline is not only a tool for scientists and programmers. By offering basic features such as the deposit and the withdrawals of coins, it can be used as a tool to safely store your XEL by everyone. You have the option to either connect to one of the load balancers (remote nodes) in order to avoid setting up a local full-node, or to actually connect to a local full-node that you have set up before. You can use Xeline as a full replacement for the web-based wallets that were so commonly used until today. However, keep in mind that Xeline is still in an experimental stage and may contain bugs: as a safety precaution, never store more coins on Xeline that you can afford to lose.
 
+![Xeline 3](/uploads/xeline/xeline-3.png "Xeline 3")
 
+12-word mnemonic phrase, passphrase
+-----
+Your XEL coins are protected by a 12-word mnemonic phrase. It is absolutely essential that you back up this phrase as it will allow you to recover your coins at any time. Since your coins never leave your possession (nobody manages your coins for you) this is the only way to restore them in case of a hard drive failure or a data loss.
+
+Even if you use Xeline with one of the public nodes through the load balancer, your private key never leaves your computer. All transactions are signed locally and broadcast through the node you are connected to. However, please be advised that public nodes can link your IP address to your public key and to the transactions you make.
