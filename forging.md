@@ -52,3 +52,16 @@ Step 5
  Make an outgoing transaction to create a public key. Click Send XEL and fill in the information. Since we want to keep as much as XEL as we can we will send 0.1 XEL with 0.1 XEL fee to the exchange market account we used to fund our wallet.
  
  
+![Sendxel](/uploads/wallet/sendxel.jpg "Sendxel")
+
+Step 6
+-----
+Send XEL and wait for the transaction to be confirmed. You need to have 1440 confirmations before you can start mining (both on the first incoming transaction and on the most recent outgoing transaction to create a public key)
+
+Step 7
+-----
+Once the outgoing transaction is confirmed click "Not Forging", input  your Passphrase, click "Start Forging" and you're done!
+ 
+ 
+ `Now you are officially mining XEL! That was easy, right? If you have some coins rotting somewhere on an exchange, why not put it to use and forge some more XEL? If you want to stop forging and withdraw your XEL you can do it at any time. You can also mine this crypto on any computer, old or new, including a mining rig, as long as you leave the XEL Server open at all times.`
+
