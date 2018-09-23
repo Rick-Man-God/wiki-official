@@ -14,16 +14,16 @@
 **XELINE Wallet**
 -----
 <p> <a href="about-exline">About</a></p>
-<p> <a href="windows-xeline">Windows - xeline tutorial</a></p>
-<p> <a href="mac-os-xeline">MacOS - xeline tutorial</a></p>
-<p> <a href="linux-xeline">Linux - xeline tutorial</a></p>
+<p> <a href="windows-xeline">Windows - Xeline Tutorial</a></p>
+<p> <a href="mac-os-xeline">MacOS - Xeline Tutorial</a></p>
+<p> <a href="linux-xeline">Linux - Xeline Tutorial</a></p>
 
 **XEL Miner**
 -----
 <p> <a href="xel-miner-about">About</a></p>
-<p> <a href="windows-miner-tutorial">Windows miner tutorial</a></p>
-<p> <a href="MacOS-miner-tutorial">MacOS miner tutorial</a></p>
-<p> <a href="linux-miner-tutorial">Linux miner tutorial</a></p>
+<p> <a href="windows-miner-tutorial">Windows Miner Tutorial</a></p>
+<p> <a href="MacOS-miner-tutorial">MacOS Miner Tutorial</a></p>
+<p> <a href="linux-miner-tutorial">Linux Miner Tutorial</a></p>
 <p> <a href="start-the-xel-miner">Start The Xel Miner</a></p>
 
 **Other Links**
