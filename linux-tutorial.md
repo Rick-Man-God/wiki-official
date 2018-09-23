@@ -162,7 +162,9 @@ screen ./run.sh
 
 What this command do it’ll pull latest changes from github, compile it with maven and launch Elastic. Check if everything launch as it should.
 
-`If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.` 
+If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
+-----
+
 
 You should be back in console and Elastic is running in background so if you exit your server Elastic will be still running.
 If you want to go back to Elastic (for example to shutdown it) type
