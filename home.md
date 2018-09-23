@@ -21,6 +21,7 @@
 **XEL Miner**
 -----
 <p> <a href="xel-miner-about">About</a></p>
+<p> <a href="windows-miner-tutorial">Windows miner tutorial</a></p>
 
 
 **Other Links**
