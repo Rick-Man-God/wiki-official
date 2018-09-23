@@ -69,7 +69,7 @@
 <p><a href="https://discord.gg/6uTJs4X">Discord</a></p>
 
 >**To Do**
-><p>Update<a href=" https://github.com/tieandsuit/wiki2/blob/master/README.md "> README.md in GitHub</a></p>
+><p><a href="to-do">To Do</a></p>
 >
 >{.is-danger}
                       
