@@ -25,7 +25,22 @@ If you encounter any errors, the reason may be that you already have a MinGW ins
 set PATH=
 ```
 
+To start mining use `CMD` go to directory of miner 
 
+```text
+cd c:/xel_miner-0.9.6/xel_miner
+```
+
+Use this exemple for mining 
+
+
+```text
+xel_miner.exe -t 1 -o http://nodeip:17876 -P "12 words your passphrase"
+```
+
+
+`-t 1` stand for cpu threads `-o` Node address with port `-P` 12 words your passphrase
+ 
 Video tutorial
 -----
 
