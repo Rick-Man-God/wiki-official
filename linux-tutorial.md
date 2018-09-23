@@ -271,7 +271,9 @@ As you can see, adminPassword is “generateSomeAdminAPIPasswordAndPasteHere”.
 keyStorePassword is “passwordYouProvidedDuringSSLCertGeneration”. Replace it with password you generated during the SSL step.
 
 Save your changes by hitting Ctrl + X (you’ll be asked if you want to save, hit Y or if you have Ubuntu installed in different language, it might be a key corresponding to “Yes” word in your language) and you should be back in MC. Exit from mc (F10):
+
 -----
+
 **Running the node**
 
 
