@@ -22,7 +22,7 @@
 -----
 <p> <a href="xel-miner-about">About</a></p>
 <p> <a href="windows-miner-tutorial">Windows Miner Tutorial</a></p>
-<p> <a href="MacOS-miner-tutorial">MacOS Miner Tutorial</a></p>
+<p> <a href="mac-os-miner-tutorial">MacOS Miner Tutorial</a></p>
 <p> <a href="linux-miner-tutorial">Linux Miner Tutorial</a></p>
 <p> <a href="start-the-xel-miner">Start The Xel Miner</a></p>
 
