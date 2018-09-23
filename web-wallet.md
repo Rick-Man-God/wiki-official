@@ -6,4 +6,4 @@
 
 [video](https://vimeo.com/271248976){.vimeo}
 
-![Warning](/uploads/warning.png "Warning") **Without your passphrase you will lose access to your XEL tokens, so make sure you store your passphrase somewhere safe.**
+ **Without your passphrase you will lose access to your XEL tokens, so make sure you store your passphrase somewhere safe.**
