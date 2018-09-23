@@ -79,3 +79,87 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 **Installing elastic client**
 
 `Remember not to run Elastic as root user! `
+
+If at this point you are logged in as root user, create a new account and do the rest of the command with this new user. You can skip this step if you have access to a normal user.
+
+
+```text
+adduser elastic
+```
+
+You’ll be asked some questions about the user. Just drop some data. Then set a password for the new user. Remember that the password needs to be strong (min 16 chars, min one upper case letter, min one lower case letter, min one number). Use a password generator if you don’t want to burn your brain, but remember to keep that password in some safe place.
+
+
+```text
+passwd elastic
+```
+
+Logout from root account. We don’t need it anymore. 
+
+`Remember not to login to root account anymore!`
+
+If by accident you’ll login to your root account and run for example Elastic from it, some file permission will change and you’ll not be able to run Elastic with this newly created user anymore.
+
+
+```text
+exit
+```
+
+Login as elastic this time typing your newly created password. You should be in your home directory now. Check it by typing
+
+
+```text
+pwd
+```
+
+You should see
+
+
+
+```text
+/home/elastic
+```
+
+Launch MC and hit F7 to create a new directory. Name it ‘elastic’ as well (without quotes of course). Go to this directory and minimize MC (Ctrl + O).
+
+Paste/type
+
+
+```text
+git clone https://github.com/xel-software/Litewallet-Mainnet.git 
+```
+
+Maximize MC (Ctrl + O) and go to the Litewallet-Mainnet directory. Minimize and
+
+
+```text
+./compile.sh
+```
+
+Maximize, and this time you have to exit MC (F10). You need to go to the Litewallet-Mainnet directory manually because you will need to launch it in screen. So if you have directory structure like mentioned before, you can type:
+
+
+```text
+cd /home/elastic/elastic/Litewallet-Mainnet
+```
+
+And you should be in Litewallet-Mainnet directory. If your username is different (i.e ubuntu) type:
+
+
+```text
+cd /home/ubuntu/elastic/Litewallet-Mainnet
+```
+
+
+Hope you get the idea. If you for some reason lost, read about ‘ls’ command it will help navigate listing files and directories in directory you currently are.
+
+If you’re in Litewallet-Mainnet directory type
+
+
+```text
+screen ./run.sh
+```
+
+What this command do it’ll pull latest changes from github, compile it with maven and launch Elastic. Check if everything launch as it should.
+
+`If you want to go back from screen to your server console **LEAVING Elastic running in background** hit Ctrl (hold it), now hit A key **and release it** and hit D key. `
