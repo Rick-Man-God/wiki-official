@@ -14,7 +14,10 @@ Prerequisites
 -----
 If you want to set up your environment for programming in ePL, you need the following two software tools available on your computer:
 
-* <p> <a href="about-exline">About</a></p>
+* <p> <a href="https://github.com/xel-software/Miner-Mainnet">Xel Miner</a></p>
+* <p> <a href="https://github.com/xel-software/xeline">Xeline</a></p>
+
+-----
 
 
 
