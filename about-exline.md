@@ -17,4 +17,8 @@ Xeline is a wallet aimed at the task programmer to conveniently submit his tasks
 
 ![Xeline 2](/uploads/xeline/xeline-2.png "Xeline 2")
 
+Store, send and receive XEL with xeline
+-----
+But Xeline is not only a tool for scientists and programmers. By offering basic features such as the deposit and the withdrawals of coins, it can be used as a tool to safely store your XEL by everyone. You have the option to either connect to one of the load balancers (remote nodes) in order to avoid setting up a local full-node, or to actually connect to a local full-node that you have set up before. You can use Xeline as a full replacement for the web-based wallets that were so commonly used until today. However, keep in mind that Xeline is still in an experimental stage and may contain bugs: as a safety precaution, never store more coins on Xeline that you can afford to lose.
+
 
