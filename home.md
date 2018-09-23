@@ -31,6 +31,7 @@
 <p> <a href="about-epl">About</a></p>
 <p> <a href="e-pl-programming">ePL Programming</a></p>
 <p> <a href="e-pl-submitting-tasks">ePL Submitting Tasks</a></p>
+<p> <a href="e-pl-advanced-tactics">ePL Advanced Tactics</a></p>
 
 
 **Other Links**
