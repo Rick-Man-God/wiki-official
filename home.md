@@ -1,5 +1,4 @@
 # Elastic XEL - community wiki
-
 <img src="/uploads/xeline/xelbig.png" alt="Elastic" width="42" height="42"  >
 
 **Basic Information**
@@ -49,7 +48,7 @@
 
 **GitHub Links**
 -----
-<p> <a href="github-links">GitHub Links</a></p>
+<p> <a href="github-links">GitHub Links</a></p><img src="/uploads/github/github.png" alt="github" width="42" height="42"  >
 
 
 **Other Links**
