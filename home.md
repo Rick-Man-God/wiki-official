@@ -55,7 +55,7 @@
 -----
 <p> <a href="https://explorer.xel.org/">Explorer</a></p>
 <p> <a href="https://xel.org/">Elastic Website</a></p>
-<p> <a href="https://github.com/tieandsuit/wiki2">Wiki on GitHub</a></p>
+<p> <a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a></p>
 
 **Social Links**
 -----
