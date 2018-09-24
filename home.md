@@ -1,5 +1,5 @@
 # Elastic XEL - community wiki
-<img src="/uploads/xeline/xelbig.png" alt="Elastic" width="42" height="42" >
+<img src="/uploads/xeline/xelbig.png" alt="Elastic" width="42" height="42" class="center" >
 
 **Basic Information**
 **Welcome to Elastic XEL - community wiki, is a great source to learn about XEL, an Open Source project driven by passionate developers and supportive community.**   
