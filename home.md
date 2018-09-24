@@ -48,8 +48,8 @@
 
 **GitHub Links**
 -----
-<p> <a href="github-links">GitHub Links</a></p><img src="/uploads/github/github.png" alt="github" width="42" height="42"  >
-
+<img src="/uploads/github/github.png" alt="github" width="42" height="42"  >
+<p> <a href="github-links">GitHub Links</a></p>
 
 **Other Links**
 -----
