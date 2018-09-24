@@ -46,7 +46,7 @@
 <p> <a href="forging">Forging</a></p>
 
 
-**GitHub Links** <img src="/uploads/github/github.png" alt="github" width="22" height="22"  >
+<img src="/uploads/github/github.png" alt="github" width="22" height="22"  >**GitHub Links**
 -----
 <p> <a href="github-links">GitHub Links</a></p>
 
