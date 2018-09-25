@@ -54,6 +54,7 @@
 <p> <a href="https://explorer.xel.org/">Explorer</a></p>
 <p> <a href="https://xel.org/">Elastic Website</a></p>
 <p> <a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a></p>
+<p> <a href="https://m.do.co/c/2aac5da46414">Digitalocean to Rent a Server</a></p>
 
 **Social Links**
 -----
