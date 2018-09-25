@@ -1,7 +1,7 @@
 # Elastic XEL - community wiki
 
 <img src="/uploads/xeline/xelbig.png" alt="Elastic" width="16" height="16"  >  **Basic Information**
-**Welcome to Elastic XEL - community wiki, a great source to learn about XEL, an Open Source project driven by passionate developers and supportive community.**   
+**Welcome to the Elastic XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community.**   
 
 **Lite Wallet**
 -----
