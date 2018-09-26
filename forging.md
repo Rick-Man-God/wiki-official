@@ -23,7 +23,7 @@ First thing you’ll need is an XEL wallet! head over to the  http://xelastic.wi
 
 Step 2
 -----
- <p> <a href="lite-wallet"> Install the XEL software in your preferred language and folder. this process is quite fast.</a></p>
+Install the XEL software in your preferred language and folder. this process is quite fast. 
 
 Step 3
 -----
