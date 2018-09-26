@@ -58,6 +58,7 @@
 
 **Social Links**
 -----
+<p> <a href="https://www.youtube.com/channel/UCN58yaAzUmkYXZ-GdOhJqkA/videos">Youtube</a></p>
 <p> <a href="https://twitter.com/elastic_coin">Twitter</a></p>
 <p> <a href="https://www.facebook.com/ElasticSupercomputer/">Facebook</a></p>
 <p> <a href="https://www.reddit.com/r/xel">Reddit</a></p>
