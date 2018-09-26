@@ -23,8 +23,8 @@ First thing you’ll need is an XEL wallet! head over to the  http://xelastic.wi
 
 Step 2
 -----
- Install the XEL software in your preferred language and folder. this process is quite fast.
- 
+ <p> <a href="#lite-wallet"> Install the XEL software in your preferred language and folder. this process is quite fast.</a></p>
+
 Step 3
 -----
  Open the XEL Server and create a new account. The XEL software will generate a seed that can be used as a backup to restore your account or to use it somewhere else. Make sure you save this key in a safe place before moving forward. The XEL setup will also prompt you for this seed when clicking next.
