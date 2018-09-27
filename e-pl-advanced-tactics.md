@@ -1,5 +1,5 @@
-<!-- TITLE: ePl Advanced Tactics -->
-<!-- SUBTITLE: A quick summary of ePl Advanced Tactics -->
+<!-- TITLE: ePL Advanced Tactics -->
+<!-- SUBTITLE: A quick summary of ePL Advanced Tactics -->
 
 # ePL – Advanced Tactics
 -----
