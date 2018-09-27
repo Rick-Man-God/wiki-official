@@ -1,5 +1,5 @@
-<!-- TITLE: About Epl -->
-<!-- SUBTITLE: A quick summary of About Epl -->
+<!-- TITLE: About ePL -->
+<!-- SUBTITLE: A quick summary of About ePL -->
 
 # About (ePL)
 -----
