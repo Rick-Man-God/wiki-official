@@ -1,5 +1,5 @@
-<!-- TITLE: ePl Programming -->
-<!-- SUBTITLE: A quick summary of ePl Programming -->
+<!-- TITLE: ePL Programming -->
+<!-- SUBTITLE: A quick summary of ePL Programming -->
 
 # ePL – Programming
 -----
