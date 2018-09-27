@@ -1,5 +1,5 @@
-<!-- TITLE: E Pl Submitting Tasks -->
-<!-- SUBTITLE: A quick summary of E Pl Submitting Tasks -->
+<!-- TITLE: ePl Submitting Tasks -->
+<!-- SUBTITLE: A quick summary of ePl Submitting Tasks -->
 
 # ePL – Submitting Tasks
 -----
