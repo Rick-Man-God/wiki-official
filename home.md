@@ -6,7 +6,7 @@
 **Lite Wallet**
 -----
 <p> <a href="web-wallet">Web Wallet</a></p>
-Windows Tutorial
+<p> <a href="web-wallet">Windows Tutorial is out of date , please use web wallet </a></p>
 <p> <a href="mac-os-tutorial">MacOS Tutorial</a></p>
 <p> <a href="linux-tutoria">Linux Tutorial</a></p>
 
