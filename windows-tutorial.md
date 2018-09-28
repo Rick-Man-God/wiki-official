@@ -1,6 +1,9 @@
 <!-- TITLE: Windows Tutorial -->
 <!-- SUBTITLE: A quick summary of Windows Tutorial -->
 
+>**Its out dated **
+>{.is-danger}
+
 # Windows Tutorial
 **Preparing for Client installation**
 
