@@ -78,4 +78,4 @@
 **Support Wiki**
 -----
 <p><a href="https://m.do.co/c/2aac5da46414">You can support wiki by using referal link to Digitlacloud </a></p>
-<p>Or <a href="hhttps://explorer.xel.org/address/XEL-MAYC-ZZ3Y-YX56-6NH52/"> send some XEL </a></p>
+<p>Or <a href="https://explorer.xel.org/address/XEL-MAYC-ZZ3Y-YX56-6NH52/"> send some XEL </a></p>
