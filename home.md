@@ -55,6 +55,7 @@
 <p> <a href="https://xel.org/">Elastic Website</a></p>
 <p> <a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a></p>
 <p> <a href="https://m.do.co/c/2aac5da46414">Digitalocean to Rent a Server</a></p>
+<p> <a href="https://www.vultr.com/?ref=7552200">Vultr to Rent a Server</a></p>
 
 **Social Links**
 -----
@@ -78,4 +79,4 @@
 **Support Wiki**
 -----
 <p><a href="https://m.do.co/c/2aac5da46414">You can support wiki by using referal link to Digitlacloud </a></p>
-<p>Or <a href="https://explorer.xel.org/address/XEL-MAYC-ZZ3Y-YX56-6NH52/"> send some XEL </a></p>
+<p>Or <a href="https://www.vultr.com/?ref=7552200">Vultr </a></p>
