@@ -76,6 +76,7 @@
 
 ><p><a href="https://github.com/elastic-community/xel-community-tasks/labels/social%20medias">To Do</a></p>
 ><p><a href="https://crowdin.com/project/XELelastic">Help To Translate </a></p>
+>
 >{.is-warning}
 
 
