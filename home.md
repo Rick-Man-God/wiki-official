@@ -85,7 +85,7 @@
 <p><a href="https://m.do.co/c/2aac5da46414">You can support wiki by using referal link to Digitlacloud  </a></p>
 <p>Or <a href="https://www.vultr.com/?ref=7552200">Vultr </a></p> 
 
-:apple:
+:heart:
 
 **Warning**
 -----
