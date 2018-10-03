@@ -87,10 +87,10 @@
 >This means, that nobody else except you is liable for any kinds of losses that are connected to Elastic, it's implementation, the protocol design or anything similar. 
 >Especially, Elastic is not meant to be speculative or used as any kind of storage of value; if you act differently you do it at your own risk anyway.
 >
->>If you do not accept this disclaimer
->or if you live in a jurisdiction where running a cryptocurrency
+>If you do not accept this disclaimer
+>>or if you live in a jurisdiction where running a cryptocurrency
 >or if you live in a jurisdiction where using cryptography
 >or if you live in a jurisdiction where any other part of Elastic/XEL might be illegal (or not explicitly allowed)
->or if you live in a jurisdiction where this disclaimer does not have 100% vailidity
->>then you are not allowed to proceed and use Elastic at all.
+>>or if you live in a jurisdiction where this disclaimer does not have 100% vailidity
+>then you are not allowed to proceed and use Elastic at all.
 >{.is-danger}
