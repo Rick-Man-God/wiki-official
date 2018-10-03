@@ -83,6 +83,7 @@
 
 
 > <img src="/uploads/warning/warning-2-256.png" alt="Elastic" width="32" height="32">
+> 
 >This software is highly experimental and may contain unknown bugs.
 >By using this software you clearly state that you are using the software at your own risk.
 >This means, that nobody else except you is liable for any kinds of losses that are connected to Elastic, it's implementation, the protocol design or anything similar. 
