@@ -1,6 +1,6 @@
 # Elastic XEL - community wiki
 <img src="/uploads/xeline/xelbig.png" alt="Elastic" width="16" height="16"  >  **Basic Information**
-**Welcome to the Elastic XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community.**   
+**Welcome to the Elastic XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community. :heart: **   
 
 
 **Lite Wallet**
@@ -84,8 +84,6 @@
 -----
 <p><a href="https://m.do.co/c/2aac5da46414">You can support wiki by using referal link to Digitlacloud  </a></p>
 <p>Or <a href="https://www.vultr.com/?ref=7552200">Vultr </a></p> 
-
-:heart:
 
 **Warning**
 -----
