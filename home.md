@@ -1,18 +1,4 @@
 # Elastic XEL - community wiki
-
->This software is highly experimental and may contain unknown bugs.
->By using this software you clearly state that you are using the software at your own risk.
->This means, that nobody else except you is liable for any kinds of losses that are connected to Elastic, it's implementation, the protocol design or anything similar. 
->Especially, Elastic is not meant to be speculative or used as any kind of storage of value; if you act differently you do it at your own risk anyway.
->
->>If you do not accept this disclaimer
->or if you live in a jurisdiction where running a cryptocurrency
->or if you live in a jurisdiction where using cryptography
->or if you live in a jurisdiction where any other part of Elastic/XEL might be illegal (or not explicitly allowed)
->or if you live in a jurisdiction where this disclaimer does not have 100% vailidity
->then you are not allowed to proceed and use Elastic at all.
->{.is-danger}
-
 <img src="/uploads/xeline/xelbig.png" alt="Elastic" width="16" height="16"  >  **Basic Information**
 **Welcome to the Elastic XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community.**   
 
@@ -94,3 +80,17 @@
 -----
 <p><a href="https://m.do.co/c/2aac5da46414">You can support wiki by using referal link to Digitlacloud </a></p>
 <p>Or <a href="https://www.vultr.com/?ref=7552200">Vultr </a></p>
+
+
+>This software is highly experimental and may contain unknown bugs.
+>By using this software you clearly state that you are using the software at your own risk.
+>This means, that nobody else except you is liable for any kinds of losses that are connected to Elastic, it's implementation, the protocol design or anything similar. 
+>Especially, Elastic is not meant to be speculative or used as any kind of storage of value; if you act differently you do it at your own risk anyway.
+>
+>>If you do not accept this disclaimer
+>or if you live in a jurisdiction where running a cryptocurrency
+>or if you live in a jurisdiction where using cryptography
+>or if you live in a jurisdiction where any other part of Elastic/XEL might be illegal (or not explicitly allowed)
+>or if you live in a jurisdiction where this disclaimer does not have 100% vailidity
+>then you are not allowed to proceed and use Elastic at all.
+>{.is-danger}
