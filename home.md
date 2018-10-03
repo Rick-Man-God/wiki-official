@@ -81,7 +81,7 @@
 <p><a href="https://m.do.co/c/2aac5da46414">You can support wiki by using referal link to Digitlacloud </a></p>
 <p>Or <a href="https://www.vultr.com/?ref=7552200">Vultr </a></p>
 
-
+<img src="/uploads/warning/warning-2-256.png" alt="Elastic" width="32" height="32" >
 >This software is highly experimental and may contain unknown bugs.
 >By using this software you clearly state that you are using the software at your own risk.
 >This means, that nobody else except you is liable for any kinds of losses that are connected to Elastic, it's implementation, the protocol design or anything similar. 
