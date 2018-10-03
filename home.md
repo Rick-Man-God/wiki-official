@@ -65,9 +65,11 @@
 <p> <a href="https://www.reddit.com/r/xel">Reddit</a></p>
 <p> <a href="https://bitcointalk.org/index.php?topic=1957064.0">Bitcointalk</a></p>
 
+
 **Links For Support**
 -----
 <p><a href="https://discord.gg/6uTJs4X">Discord</a></p>
+
 
 >**To Do**
 >-----
@@ -75,6 +77,7 @@
 ><p><a href="https://crowdin.com/project/XELelastic">Help To Translate </a></p>
 >
 >{.is-danger}
+
 
 **Support Wiki**
 -----
