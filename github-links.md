@@ -11,6 +11,6 @@
 <p> <a href="https://github.com/xel-software/community_explorer">Community Explorer</a></p>
 <p> <a href="https://github.com/elastic-community">Community GitHub</a></p>
 
-```text
-`To Be Updated`
+```text 
+To Be Updated
 ```
