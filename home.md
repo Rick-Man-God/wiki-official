@@ -1,6 +1,6 @@
 # XEL - community wiki
 <img src="/uploads/xeline/xelbig.png" alt="Elastic" width="16" height="16"  >  **Basic Information**
-**Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .**
+**Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .** 
 
 
 **Lite Wallet**
@@ -85,10 +85,10 @@
 -----
 
 > <img src="/uploads/warning/warning-2-256.png" alt="Elastic" width="32" height="32">
->
+> 
 >This software is highly experimental and may contain unknown bugs.
 >By using this software you clearly state that you are using the software at your own risk.
->This means, that nobody else except you is liable for any kinds of losses that are connected to XEL, it's implementation, the protocol design or anything similar.
+>This means, that nobody else except you is liable for any kinds of losses that are connected to XEL, it's implementation, the protocol design or anything similar. 
 >Especially, XEL is not meant to be speculative or used as any kind of storage of value; if you act differently you do it at your own risk anyway.
 >
 >If you do not accept this disclaimer
@@ -96,5 +96,5 @@
 >or if you live in a jurisdiction where using cryptography
 >or if you live in a jurisdiction where any other part of XEL might be illegal (or not explicitly allowed)
 >or if you live in a jurisdiction where this disclaimer does not have 100% validity
->then you are not allowed to proceed and use XEL at all.
+>then you are not allowed to proceed and use Elastic at all.
 >{.is-danger}
