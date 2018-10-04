@@ -1,6 +1,6 @@
 # Elastic XEL - community wiki
 <img src="/uploads/xeline/xelbig.png" alt="Elastic" width="16" height="16"  >  **Basic Information**
-**Welcome to the Elastic XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .** 
+**Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .** 
 
 
 **Lite Wallet**
@@ -52,7 +52,7 @@
 **Other Links**
 -----
 <p> <a href="https://explorer.xel.org/">Explorer</a></p>
-<p> <a href="https://xel.org/">Elastic Website</a></p>
+<p> <a href="https://xel.org/">XEL Website</a></p>
 <p> <a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a></p>
 <p> <a href="https://m.do.co/c/2aac5da46414">Digitalocean to Rent a Server</a></p>
 <p> <a href="https://www.vultr.com/?ref=7552200">Vultr to Rent a Server</a></p>
@@ -88,13 +88,13 @@
 > 
 >This software is highly experimental and may contain unknown bugs.
 >By using this software you clearly state that you are using the software at your own risk.
->This means, that nobody else except you is liable for any kinds of losses that are connected to Elastic, it's implementation, the protocol design or anything similar. 
->Especially, Elastic is not meant to be speculative or used as any kind of storage of value; if you act differently you do it at your own risk anyway.
+>This means, that nobody else except you is liable for any kinds of losses that are connected to XEL, it's implementation, the protocol design or anything similar. 
+>Especially, XEL is not meant to be speculative or used as any kind of storage of value; if you act differently you do it at your own risk anyway.
 >
 >If you do not accept this disclaimer
 >or if you live in a jurisdiction where running a cryptocurrency
 >or if you live in a jurisdiction where using cryptography
->or if you live in a jurisdiction where any other part of Elastic/XEL might be illegal (or not explicitly allowed)
+>or if you live in a jurisdiction where any other part of XEL might be illegal (or not explicitly allowed)
 >or if you live in a jurisdiction where this disclaimer does not have 100% validity
 >then you are not allowed to proceed and use Elastic at all.
 >{.is-danger}
