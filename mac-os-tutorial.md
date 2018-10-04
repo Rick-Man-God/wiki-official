@@ -22,7 +22,7 @@ https://github.com/xel-software/Litewallet-Mainnet
 
 -----
 
-**Installing and Running the Elastic Client**
+**Installing and Running the XEL Client**
 
 Go to the elastic client download directory and extract the ZIP files, enter your elastic client directory and Launch the terminal
 
