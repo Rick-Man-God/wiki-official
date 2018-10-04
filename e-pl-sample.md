@@ -48,7 +48,7 @@ submit_idx 0;
  *
  *  - Optional
  *  - Names can be made up of numbers (0-9), letters (a-z), and underscores '_'
- *  - Names cannot begin with any reserved word in the ElasticPL language
+ *  - Names cannot begin with any reserved word in the XEL ePL language
  *
  *  function <function name> { }
  *
@@ -75,7 +75,7 @@ function example_function_2 {
  *
  *  - Main Function is required
  *  - Must call verify() or contain verify_bty and verify_pow
- *  - This is the entry point for the ElasticPL job
+ *  - This is the entry point for the XEL ePL job
  *
  *  function main { }
  *

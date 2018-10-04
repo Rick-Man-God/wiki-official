@@ -24,7 +24,7 @@ https://github.com/xel-software/Litewallet-Mainnet
 
 **Installing and Running the XEL Client**
 
-Go to the elastic client download directory and extract the ZIP files, enter your elastic client directory and Launch the terminal
+Go to the xel client download directory and extract the ZIP files, enter your xel client directory and Launch the terminal
 
 
 ```text
@@ -54,5 +54,3 @@ To access ur wallet open ur browser and go to:
 ```text
 http://localhost:17876
 ```
-
-

@@ -4,7 +4,7 @@
 # ePL – Programming
 -----
 
-This tutorial is designed for software programmers with a need to understand the ePL programming language starting from scratch. You will gain enough knowledge from where you can take yourself to a higher level of expertise. 
+This tutorial is designed for software programmers with a need to understand the ePL programming language starting from scratch. You will gain enough knowledge from where you can take yourself to a higher level of expertise.
 
 But before we get too deep into the little details, let us start with step one.
 
@@ -29,7 +29,7 @@ array_uint 1000;
 
 function main {
     verify();
-} 
+}
 
 function primetest {
     u[1] = 0;
@@ -115,8 +115,8 @@ This has a very good reason: XEL allows you more complex programs with a fairly 
 
 
  Anyway, for now, things are very easy: in our particular case, there is no possibility to do an asymmetrical verification as finding primes is as complex as verifying them. To keep the code clean, we therefore add the entire logic into `verify`, and let the `main` function just call `verify():`
- 
- 
+
+
 ```java
 function main {
     verify();
@@ -193,7 +193,7 @@ This part actually tells the backend system what to be considered a valid soluti
 
 In a next step, we need to specify a condition for “proof-of-work” payments. XEL’s Blockchain works in a way, that every task has two types of payments: the proof-of-work payments and the bounty payments. This has a very simple reason: very often, bounties are very hard to find and only limited to a hand full per job. Imagine you want to find an input to a CNF formula that evaluates it to true: if you are having a bijective relation, there will be only one solution which, depending on the complexity of your formula, is very hard to find. While the discovery of such a solution should be awarded an attractive amount of coins (to keep workers motivated) you also want to keep them motivated by frequent, smaller payments. XEL introduces the concept of proof-of-work solutions to achieve that. These are solutions that do not really solve your problem but which can be submitted by the workers to claim a tiny amount of coins as a reward for ongoing commitment. As you can probably imagine, payments per bounty should be set significantly higher than payments per proof-of-work. However, if you set this value too small, other tasks on the network might seem more lucrative and attract the processing power away from you. Proof-of-work packages, by the way, work on top of a re-targeting mechanism comparable to the block difficulty re-target in Bitcoin: The more processing power the network has, the harder it becomes to find such proof-of-work solutions so that, on average, the total number of proof-of-work solutions in the entire network converges to 10 per minute.
 
->It is important to point out that it is the developer’s responsibility to provide the verify_pow()function with enough “evidence” that the worker has been actually working on your problem in the form of four unsigned integers. 
+>It is important to point out that it is the developer’s responsibility to provide the verify_pow()function with enough “evidence” that the worker has been actually working on your problem in the form of four unsigned integers.
 >{.is-danger}
 
 In our example here, we use this:
@@ -323,7 +323,7 @@ If everything goes well, you will be presented with an output like this:
 
 
 ```text
-** Elastic Compute Engine **
+** XEL Compute Engine **
    Miner Version: 0.9.6
    ElasticPL Version: 0.9.4
 [16:31:29] DEBUG: Skipping recompilation to be blazing fast
@@ -426,7 +426,7 @@ depending on the complexity of your problem, you will need to wait some time unt
 
 
 ```text
-** Elastic Compute Engine **
+** XEL Compute Engine **
    Miner Version: 0.9.6
    ElasticPL Version: 0.9.4
 [20:08:09] DEBUG: Skipping recompilation to be blazing fast

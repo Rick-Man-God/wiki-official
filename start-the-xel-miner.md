@@ -69,7 +69,7 @@ In the remainder of this tutorial, we will just cover the linux/macOS variant bu
 
 
 ```text
-** Elastic Compute Engine **
+** XEL Compute Engine **
    Miner Version: 0.9.6
    ElasticPL Version: 0.9.4
 Usage: xel_miner [OPTIONS]
@@ -91,21 +91,21 @@ Options:
       --opencl-vwidth 	  Vector width of local work size (1 - 256, default: calculated)
   -o, --url=URL               URL of mining server
   -p, --pass        Password for mining server
-  -P, --phrase    Secret Passphrase for Elastic account
+  -P, --phrase    Secret Passphrase for XEL account
       --protocol              Display dump of protocol-level activities
   -q, --quiet                 Display minimal output
   -r, --retries            Number of times to retry if a network call fails
                               (Default: Retry indefinitely)
   -R, --retry-pause        Time to pause between retries (Default: 10 sec)
   -s, --scan-time          Max time to scan work before requesting new work (Default: 60 sec)
-  	  --test-miner      Run the Miner using JSON formatted work in 
-      --test-vm         Run the Parser / Compiler using the ElasticPL source code in 
+  	  --test-miner      Run the Miner using JSON formatted work in
+      --test-vm         Run the Parser / Compiler using the XEL ePL source code in
 	  --test-avoidcache   	  Do not save metadata
       --test-block 	  Block-id for test run
 	  --test-cont-bounty      Search for bounties within test-vm environment
 	  --test-cont-pow         Search for proof-of-work within test-vm environment
 	  --test-work 	  Work-id for test run
-	  --test-limit-storage 			Only allow storage sizes up to 
+	  --test-limit-storage 			Only allow storage sizes up to
 	  --test-multiplicator <32-byte-hex>	Multiplicator for testrun: must be exactly 32 hex chars
 	  --test-publickey <32-byte-hex>		Publickey for testrun: must be exactly 32 hex chars
 	  --test-stdin		                    Read storage values from stdin
@@ -148,12 +148,12 @@ The third important parameter is the passphrase flag:
 
 
 ```text
--P, --phrase    Secret Passphrase for Elastic account
+-P, --phrase    Secret Passphrase for XEL account
 ```
 
 `This is absolutely essential. `
 
-This is the passphrase to the account which will both pay the transactions fees for submitting work results and receive the rewards in exchange. if your passphrase has a space in it, make sure to put double quotes around it. 
+This is the passphrase to the account which will both pay the transactions fees for submitting work results and receive the rewards in exchange. if your passphrase has a space in it, make sure to put double quotes around it.
 
 `It is absolutely essential that you have some initial funds inside this account, otherwise you will not be able to submit any solutions. `
 

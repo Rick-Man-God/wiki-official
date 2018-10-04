@@ -1,7 +1,7 @@
 <!-- TITLE: Windows Tutorial -->
 <!-- SUBTITLE: A quick summary of Windows Tutorial -->
 
->Its out dated !!!!! 
+>Its out dated !!!!!
 >Please wait for update !!!!
 >{.is-danger}
 
@@ -15,17 +15,17 @@
 ~~http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html~~
 
 
-~~Now download elastic client executable~~
+~~Now download XEL client executable~~
 
 
 
 ~~https://github.com/unvo1d/Elastic-XEL-Litewallet/releases/download/v3.1.1/elastic-client-3.1.1.exe~~
 
 
-~~**Installing and Running Elastic Client**~~
+~~**Installing and Running XEL Client**~~
 
 
-~~Go to the elastic client download directory and run .exe file~~
+~~Go to the XEL client download directory and run .exe file~~
 
 
 
