@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Linux Tutoria -->
 
 # Linux - tutorial
-This is a step by step instruction of how to setup and run an elastic node on a dedicated server, or VPS including Ubuntu 16.04.
+This is a step by step instruction of how to setup and run an XEL node on a dedicated server, or VPS including Ubuntu 16.04.
 
 -----
 
@@ -28,7 +28,7 @@ ssh username@youriporhostname.xyz
 ```
 
 
- Once you are logged in you will start the installation of dependencies for your Elastic node to compile
+ Once you are logged in you will start the installation of dependencies for your XEL node to compile
 
 
 ```text
@@ -74,7 +74,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 ```
 
-(Make sure Java is at 1.8.x because it’s currently supported by Elastic.)
+(Make sure Java is at 1.8.x because it’s currently supported by XEL.)
 
 -----
 
@@ -82,21 +82,21 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 -----
 
 
->Remember not to run Elastic as root user! 
+>Remember not to run XEL as root user! 
 >{.is-danger}
 
 If at this point you are logged in as root user, create a new account and do the rest of the command with this new user. You can skip this step if you have access to a normal user.
 
 
 ```text
-adduser elastic
+adduser xel
 ```
 
 You’ll be asked some questions about the user. Just drop some data. Then set a password for the new user. Remember that the password needs to be strong (min 16 chars, min one upper case letter, min one lower case letter, min one number). Use a password generator if you don’t want to burn your brain, but remember to keep that password in some safe place.
 
 
 ```text
-passwd elastic
+passwd xel
 ```
 
 Logout from root account. We don’t need it anymore. 
@@ -104,14 +104,14 @@ Logout from root account. We don’t need it anymore.
 >Remember not to login to root account anymore!
 >{.is-danger}
 
-If by accident you’ll login to your root account and run for example Elastic from it, some file permission will change and you’ll not be able to run Elastic with this newly created user anymore.
+If by accident you’ll login to your root account and run for example XEL from it, some file permission will change and you’ll not be able to run Elastic with this newly created user anymore.
 
 
 ```text
 exit
 ```
 
-Login as elastic this time typing your newly created password. You should be in your home directory now. Check it by typing
+Login as e XEL this time typing your newly created password. You should be in your home directory now. Check it by typing
 
 
 ```text
@@ -123,10 +123,10 @@ You should see
 
 
 ```text
-/home/elastic
+/home/xel
 ```
 
-Launch MC and hit F7 to create a new directory. Name it ‘elastic’ as well (without quotes of course). Go to this directory and minimize MC (Ctrl + O).
+Launch MC and hit F7 to create a new directory. Name it ‘xel’ as well (without quotes of course). Go to this directory and minimize MC (Ctrl + O).
 
 Paste/type
 
@@ -166,12 +166,12 @@ If you’re in Litewallet-Mainnet directory type
 screen ./run.sh
 ```
 
-What this command do it’ll pull latest changes from github, compile it with maven and launch Elastic. Check if everything launch as it should.
+What this command do it’ll pull latest changes from github, compile it with maven and launch XEL. Check if everything launch as it should.
 
-If you want to go back from screen to your server console` **LEAVING Elastic running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
+If you want to go back from screen to your server console` **LEAVING EXEL running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
 
-You should be back in console and Elastic is running in background so if you exit your server Elastic will be still running.
-If you want to go back to Elastic (for example to shutdown it) type
+You should be back in console and XEL is running in background so if you exit your server XEL will be still running.
+If you want to go back to XEL (for example to shutdown it) type
 
 
 ```text
