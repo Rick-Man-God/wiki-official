@@ -12,7 +12,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 ```
 
 
-Now download the elastic client by clicking on the green button on the right
+Now download the XEL client by clicking on the green button on the right
 
 
 ```text
@@ -32,7 +32,7 @@ http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 ```
 
 
-To start installation from the elastic client directory, type on your terminal:
+To start installation from the XEL client directory, type on your terminal:
 
 
 ```text
@@ -40,7 +40,7 @@ bash compile.sh
 ```
 
 
-After installation is done, start your elastic client with this command:
+After installation is done, start your XEL client with this command:
 
 
 ```text
