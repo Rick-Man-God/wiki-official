@@ -95,6 +95,6 @@
 >or if you live in a jurisdiction where running a cryptocurrency
 >or if you live in a jurisdiction where using cryptography
 >or if you live in a jurisdiction where any other part of Elastic/XEL might be illegal (or not explicitly allowed)
->or if you live in a jurisdiction where this disclaimer does not have 100% vailidity
+>or if you live in a jurisdiction where this disclaimer does not have 100% validity
 >then you are not allowed to proceed and use Elastic at all.
 >{.is-danger}
