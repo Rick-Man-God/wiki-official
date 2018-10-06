@@ -108,8 +108,8 @@ Logout from root account. We don’t need it anymore.
 
 
 If by accident you’ll login to your root account and run for example XEL from it, some file permission will change and you’ll not be able to run XEL with this newly created user anymore.
-=======
-If by accident you’ll login to your root account and run for example XEL from it, some file permission will change and you’ll not be able to run Elastic with this newly created user anymore.
+
+
 
 
 
@@ -117,10 +117,8 @@ If by accident you’ll login to your root account and run for example XEL from 
 exit
 ```
 
-<<<<<<< HEAD
+
 Login as XEL this time typing your newly created password. You should be in your home directory now. Check it by typing
-=======
-Login as e XEL this time typing your newly created password. You should be in your home directory now. Check it by typing
 
 
 
