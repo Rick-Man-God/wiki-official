@@ -176,10 +176,9 @@ screen ./run.sh
 
 What this command do it’ll pull latest changes from github, compile it with maven and launch XEL. Check if everything launch as it should.
 
-<<<<<<< HEAD
+
 If you want to go back from screen to your server console` **LEAVING XEL running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
-=======
-If you want to go back from screen to your server console` **LEAVING EXEL running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
+
 
 
 You should be back in console and XEL is running in background so if you exit your server XEL will be still running.
