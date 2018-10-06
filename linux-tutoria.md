@@ -82,11 +82,9 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 -----
 
 
-<<<<<<< HEAD
->Remember not to run XEL as root user!
-=======
+
 >Remember not to run XEL as root user! 
->>>>>>> 4261472543aaa5debc0ff387c6c7145426bc6fb2
+>
 >{.is-danger}
 
 If at this point you are logged in as root user, create a new account and do the rest of the command with this new user. You can skip this step if you have access to a normal user.
@@ -108,11 +106,11 @@ Logout from root account. We don’t need it anymore.
 >Remember not to login to root account anymore!
 >{.is-danger}
 
-<<<<<<< HEAD
+
 If by accident you’ll login to your root account and run for example XEL from it, some file permission will change and you’ll not be able to run XEL with this newly created user anymore.
 =======
 If by accident you’ll login to your root account and run for example XEL from it, some file permission will change and you’ll not be able to run Elastic with this newly created user anymore.
->>>>>>> 4261472543aaa5debc0ff387c6c7145426bc6fb2
+
 
 
 ```text
@@ -123,7 +121,7 @@ exit
 Login as XEL this time typing your newly created password. You should be in your home directory now. Check it by typing
 =======
 Login as e XEL this time typing your newly created password. You should be in your home directory now. Check it by typing
->>>>>>> 4261472543aaa5debc0ff387c6c7145426bc6fb2
+
 
 
 ```text
@@ -184,7 +182,7 @@ What this command do it’ll pull latest changes from github, compile it with ma
 If you want to go back from screen to your server console` **LEAVING XEL running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
 =======
 If you want to go back from screen to your server console` **LEAVING EXEL running in background** `hit Ctrl (hold it), now hit A key` **and release it** `and hit D key.
->>>>>>> 4261472543aaa5debc0ff387c6c7145426bc6fb2
+
 
 You should be back in console and XEL is running in background so if you exit your server XEL will be still running.
 If you want to go back to XEL (for example to shutdown it) type
