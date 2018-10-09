@@ -1,7 +1,5 @@
 <!-- TITLE: Mac Os Tutorial -->
-<!-- SUBTITLE: A quick summary of Mac Os Tutorial -->
 
-# MacOS - tutorial
 **Preparing for Client installation**
 
 First download and install Java (jdk8) for macOS
