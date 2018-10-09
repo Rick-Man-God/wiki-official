@@ -1,7 +1,5 @@
 <!-- TITLE: Linux Tutoria -->
-<!-- SUBTITLE: A quick summary of Linux Tutoria -->
 
-# Linux - tutorial
 This is a step by step instruction of how to setup and run an XEL node on a dedicated server, or VPS including Ubuntu 16.04.
 
 -----
