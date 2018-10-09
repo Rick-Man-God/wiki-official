@@ -1,8 +1,5 @@
 <!-- TITLE: Windows Xeline -->
-<!-- SUBTITLE: A quick summary of Windows Xeline -->
 
-# Windows - xeline tutorial
------
 
 Install from binary
 -----
