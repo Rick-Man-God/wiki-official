@@ -14,7 +14,7 @@ Install from Source
 brew install gmp make cmake openssl
 ​
 # Get the latest source code (or run a git pull to update)
-git clone https://github.com/xel-software/Miner-Mainnet
+git clone https://github.com/xel-software/xel-miner
 ​
 # Make sure to link the OpenSSL include directory to the right place
 ln -s /usr/local/opt/openssl/include/openssl/ /usr/local/include/openssl

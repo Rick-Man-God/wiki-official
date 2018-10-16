@@ -14,7 +14,7 @@ Now download the XEL client by clicking on the green button on the right
 
 
 ```text
-https://github.com/xel-software/Litewallet-Mainnet
+https://github.com/xel-software/xel-lite-wallet
 ```
 
 

@@ -130,34 +130,34 @@ Paste/type
 
 
 ```text
-git clone https://github.com/xel-software/Litewallet-Mainnet.git
+git clone https://github.com/xel-software/xel-lite-wallet.git
 ```
 
-Maximize MC (Ctrl + O) and go to the Litewallet-Mainnet directory. Minimize and
+Maximize MC (Ctrl + O) and go to the xel-lite-wallet directory. Minimize and
 
 
 ```text
 ./compile.sh
 ```
 
-Maximize, and this time you have to exit MC (F10). You need to go to the Litewallet-Mainnet directory manually because you will need to launch it in screen. So if you have directory structure like mentioned before, you can type:
+Maximize, and this time you have to exit MC (F10). You need to go to the xel-lite-wallet directory manually because you will need to launch it in screen. So if you have directory structure like mentioned before, you can type:
 
 
 ```text
-cd /home/xel/xel/Litewallet-Mainnet
+cd /home/xel/xel/xel-lite-wallet
 ```
 
-And you should be in Litewallet-Mainnet directory. If your username is different (i.e ubuntu) type:
+And you should be in xel-lite-wallet directory. If your username is different (i.e ubuntu) type:
 
 
 ```text
-cd /home/ubuntu/xel/Litewallet-Mainnet
+cd /home/ubuntu/xel/xel-lite-wallet
 ```
 
 
 Hope you get the idea. If you for some reason lost, read about ‘ls’ command it will help navigate listing files and directories in directory you currently are.
 
-If you’re in Litewallet-Mainnet directory type
+If you’re in xel-lite-wallet directory type
 
 
 ```text
@@ -183,7 +183,7 @@ Now (once XEL is down) i.e. you can update XEL to the newest version and launch 
 
 
 ```text
-cd /home/xel/xel/Litewallet-Mainnet
+cd /home/xel/xel/xel-lite-wallet
 
 git pull
 
@@ -203,7 +203,7 @@ Next, we need to generate an SSL certificate
 
 
 ```text
-cd /home/xel/xel/Litewallet-Mainnet
+cd /home/xel/xel/xel-lite-wallet
 ```
 -----
 ```text
@@ -282,7 +282,7 @@ Save your changes by hitting Ctrl + X (you’ll be asked if you want to save, hi
 
 
 ```text
-cd /home/xel/xel/Litewallet-Mainnet
+cd /home/xel/xel/xel-lite-wallet
 ```
 
 

@@ -16,7 +16,7 @@ So the safest bet is to set up a local XEL node on your system. Before you do so
 In a next step, you have to clone the XEL docker repository
 
 ```text
-git clone https://github.com/xel-software/Computationwallet-Mainnet-Docker.git
+git clone https://github.com/xel-software/xel-computation-wallet-Docker.git
 ```
 
 Now, go into the `xel_docker directory` and launch
