@@ -8,7 +8,7 @@ Install from binary
 -----
 ```text
 # Download the latest (experimental CPU only) binary version from:
-https://github.com/xel-software/xel-miner-releases/releases
+https://github.com/xel-software/xel-miner/releases
 ```
 
 After you unzip the archive, go into the folder `xel_miner-0.9.6/xel_miner`. There, you will find the `xel_miner.exe` executable. You can test if it’s functioning properly by running:
