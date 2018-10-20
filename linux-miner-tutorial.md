@@ -40,4 +40,4 @@ sudo ./xel_miner -t 1 -o http://nodeip:17876 -P "12 words your passphrase"
 
  Video tutorial
 -----
-[video](https://vimeo.com/265864834){.vimeo}
+<div style="width:100%;height:0px;position:relative;padding-bottom:61.224%;"><iframe src="https://streamable.com/s/awnig/sdbuek" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
