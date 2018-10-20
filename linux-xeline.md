@@ -54,7 +54,7 @@ npm start
 
 Video tutorial
 -----
-[video](https://vimeo.com/265864522){.vimeo}
+<div style="width:100%;height:0px;position:relative;padding-bottom:63.529%;"><iframe src="https://streamable.com/s/wqejg/uknvgk" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 
