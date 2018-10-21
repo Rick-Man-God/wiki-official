@@ -97,3 +97,6 @@
 >or if you live in a jurisdiction where this disclaimer does not have 100% validity
 >then you are not allowed to proceed and use XEL at all.
 >{.is-danger}
+
+**Paper wallet sha - 256 key**
+-----
