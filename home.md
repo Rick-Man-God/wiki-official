@@ -74,6 +74,7 @@
 **Social Links**
 -----
 <ul>
+<li><a href="https://link.xel.org/coinmarketcap">CoinMarketCap</a></li>
 <li><a href="https://link.xel.org/youtube">Youtube</a></li>
 <li> <a href="https://twitter.com/elastic_coin">Twitter</a></li>
 <li> <a href="https://link.xel.org/facebook">Facebook</a></li>
