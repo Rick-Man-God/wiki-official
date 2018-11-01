@@ -1,6 +1,7 @@
 <!-- TITLE: Linux Xeline -->
 <!-- SUBTITLE: A quick summary of Linux Xeline -->
 
+![Xelbig](/uploads/xeline/xelbig.png "Xelbig"){.pagelogo}
 # Linux - xeline tutorial
 -----
 
