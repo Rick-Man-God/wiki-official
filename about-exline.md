@@ -1,6 +1,6 @@
 <!-- TITLE: About Exline -->
 
-![3400 X 3400](/uploads/logo/3400-x-3400.png "3400 X 3400"){.pagelogo}
+![Xelbig](/uploads/xeline/xelbig.png "Xelbig"){.pagelogo}
 
 XELINE is a smart wallet which acts as a command center, enabling an easy streamlined creation and monitoring of arbitrary tasks and their rewards. This is achieved by using the various components of the system while supplying a user friendly interface.  
 
