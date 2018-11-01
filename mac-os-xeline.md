@@ -1,6 +1,7 @@
 <!-- TITLE: Mac Os Xeline -->
 <!-- SUBTITLE: A quick summary of Mac Os Xeline -->
 
+![Xelbig](/uploads/xeline/xelbig.png "Xelbig"){.pagelogo}
 # MacOS - xeline tutorial
 -----
 Install from binary
