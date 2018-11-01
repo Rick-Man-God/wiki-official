@@ -1,5 +1,6 @@
 <!-- TITLE: Windows Xeline -->
 
+![Xelbig](/uploads/xeline/xelbig.png "Xelbig"){.pagelogo}
 
 Install from binary
 -----
