@@ -1,3 +1,4 @@
+![3400 X 3400](/uploads/logo/3400-x-3400.png "3400 X 3400"){.pagelogo}
 # XEL - community wiki
 <img src="/uploads/logo/3400-x-3400.png" alt="XEL" width="16" height="16"  >  **Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .** 
 
