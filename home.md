@@ -1,5 +1,5 @@
 # XEL - community wiki
-<img src="/uploads/logo/3400-x-3400.png" alt="XEL" width="16" height="16"  >  **Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .** 
+<img src="/uploads/xeline/xelbig.png" alt="Elastic" width="16" height="16"  >  **Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .** 
 
 
 **Lite Wallet**
@@ -58,16 +58,18 @@
 
 **Social Links**
 -----
-<p> <a href="https://www.youtube.com/channel/UCN58yaAzUmkYXZ-GdOhJqkA/videos">Youtube</a></p>
-<p> <a href="https://twitter.com/elastic_coin">Twitter</a></p>
-<p> <a href="https://www.facebook.com/ElasticSupercomputer/">Facebook</a></p>
-<p> <a href="https://www.reddit.com/r/xel">Reddit</a></p>
-<p> <a href="https://bitcointalk.org/index.php?topic=1957064.0">Bitcointalk</a></p>
-
-
-**Links For Support**
------
-<p><a href="https://discord.gg/6uTJs4X">Discord</a></p>
+<p> 
+<ul>
+<li><a href="https://link.xel.org/youtube">Youtube</a></li>
+<li> <a href="https://twitter.com/elastic_coin">Twitter</a></li>
+<li> <a href="https://link.xel.org/facebook">Facebook</a></li>
+<li> <a href="https://link.xel.org/reddit">Reddit</a></li>
+<li> <a href="https://link.xel.org/bitcointalk">Bitcointalk</a></li>
+<li> <a href="https://link.xel.org/medium">Medium</a></li>
+<li> <a href="https://link.xel.org/telegram">Telegram</a></li>
+<li> <a href="https://link.xel.org/discord">Discord</a></li>
+<li> <a href="https://link.xel.org/investfeed">InvestFeed</a></li>
+</p>
 
 
 **To Do**
@@ -98,6 +100,3 @@
 >then you are not allowed to proceed and use XEL at all.
 >{.is-danger}
 
-**Paper wallet sha - 256 key**
------
-SHA256: 5927776018E34CABFA04686F4B41753FD3DD5877D7E40A6002D3F833B31B2905
