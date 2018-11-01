@@ -4,61 +4,73 @@
 
 **Lite Wallet**
 -----
-<p> <a href="web-wallet">Web Wallet</a></p>
-<p> <a href="">Windows Tutorial Coming Soon</a></p>
-<p> <a href="mac-os-tutorial">MacOS Tutorial</a></p>
-<p> <a href="linux-tutoria">Linux Tutorial</a></p>
+<ul>
+<li><a href="web-wallet">Web Wallet</a></li>
+<li><a href="">Windows Tutorial Coming Soon</a></li>
+<li><a href="mac-os-tutorial">MacOS Tutorial</a></li>
+<li><a href="linux-tutoria">Linux Tutorial</a></li>
+</ul>
 
 **XELINE Wallet**
 -----
-<p> <a href="about-exline">About</a></p>
-<p> <a href="windows-xeline">Windows - Xeline Tutorial</a></p>
-<p> <a href="mac-os-xeline">MacOS - Xeline Tutorial</a></p>
-<p> <a href="linux-xeline">Linux - Xeline Tutorial</a></p>
+<ul>
+<li><a href="about-exline">About</a></li>
+<li><a href="windows-xeline">Windows - Xeline Tutorial</a></li>
+<li><a href="mac-os-xeline">MacOS - Xeline Tutorial</a></li>
+<li><a href="linux-xeline">Linux - Xeline Tutorial</a></li>
+</ul>
 
 **XEL Miner**
 -----
-<p> <a href="xel-miner-about">About</a></p>
-<p> <a href="windows-miner-tutorial">Windows Miner Tutorial</a></p>
-<p> <a href="mac-os-miner-tutorial">MacOS Miner Tutorial</a></p>
-<p> <a href="linux-miner-tutorial">Linux Miner Tutorial</a></p>
-<p> <a href="start-the-xel-miner">Start The Xel Miner</a></p>
+<ul>
+<li><a href="xel-miner-about">About</a></li>
+<li><a href="windows-miner-tutorial">Windows Miner Tutorial</a></li>
+<li><a href="mac-os-miner-tutorial">MacOS Miner Tutorial</a></li>
+<li><a href="linux-miner-tutorial">Linux Miner Tutorial</a></li>
+<li><a href="start-the-xel-miner">Start The Xel Miner</a></li>
+</ul>
 
 **XEL (ePL)**
 -----
-<p> <a href="about-epl">About</a></p>
-<p> <a href="e-pl-programming">ePL Programming</a></p>
-<p> <a href="e-pl-submitting-tasks">ePL Submitting Tasks</a></p>
-<p> <a href="e-pl-advanced-tactics">ePL Advanced Tactics</a></p>
+<ul>
+<li><a href="about-epl">About</a></li>
+<li><a href="e-pl-programming">ePL Programming</a></li>
+<li><a href="e-pl-submitting-tasks">ePL Submitting Tasks</a></li>
+<li><a href="e-pl-advanced-tactics">ePL Advanced Tactics</a></li>
+</ul>
 
 **Code Samples (ePL)**
 -----
-<p> <a href="e-pl-sample">ePL Sample</a></p>
-<p> <a href="e-pl-simple-job">ePL Sample Job</a></p>
-<p> <a href="e-pl-storage-job">ePL Storage Job</a></p>
-<p> <a href="e-pl-bitcoin-mining">ePL Bitcoin Mining</a></p>
-<p> <a href="e-pl-travelling-salesman">ePL Travelling Salesman</a></p>
+<ul>
+<li><a href="e-pl-sample">ePL Sample</a></li>
+<li><a href="e-pl-simple-job">ePL Sample Job</a></li>
+<li><a href="e-pl-storage-job">ePL Storage Job</a></li>
+<li><a href="e-pl-bitcoin-mining">ePL Bitcoin Mining</a></li>
+<li><a href="e-pl-travelling-salesman">ePL Travelling Salesman</a></li>
+</ul>
 
 **Forging**
 -----
-<p> <a href="forging">Forging</a></p>
-
+<ul>
+<li><a href="forging">Forging</a></li>
+</ul>
 
 <img src="/uploads/github/github.png" alt="github" width="12" height="12"  > **GitHub Links**
 -----
-<p> <a href="github-links">GitHub Links</a></p>
+<li><a href="github-links">GitHub Links</a></li>
 
 **Other Links**
 -----
-<p> <a href="https://explorer.xel.org/">Explorer</a></p>
-<p> <a href="https://xel.org/">XEL Website</a></p>
-<p> <a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a></p>
-<p> <a href="https://m.do.co/c/2aac5da46414">Digitalocean to Rent a Server</a></p>
-<p> <a href="https://www.vultr.com/?ref=7552200">Vultr to Rent a Server</a></p>
+<ul>
+<li><a href="https://explorer.xel.org/">Explorer</a></li>
+<li><a href="https://xel.org/">XEL Website</a></li>
+<li><a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a></li>
+<li><a href="https://m.do.co/c/2aac5da46414">Digitalocean to Rent a Server</a></li>
+<li><a href="https://www.vultr.com/?ref=7552200">Vultr to Rent a Server</a></li>
+</ul>
 
 **Social Links**
 -----
-<p> 
 <ul>
 <li><a href="https://link.xel.org/youtube">Youtube</a></li>
 <li> <a href="https://twitter.com/elastic_coin">Twitter</a></li>
@@ -70,17 +82,15 @@
 <li> <a href="https://link.xel.org/discord">Discord</a></li>
 <li> <a href="https://link.xel.org/investfeed">InvestFeed</a></li>
 </ul>
-</p>
 
 
 **To Do**
 -----
 
-><p><a href="https://github.com/elastic-community/xel-community-tasks/labels/social%20medias">To Do</a></p>
-><p><a href="https://crowdin.com/project/XELelastic">Help To Translate </a></p>
->
->{.is-warning}
-
+<ul>
+<li><a href="https://github.com/elastic-community/xel-community-tasks/labels/social%20medias">To Do</a></li>
+<li><a href="https://crowdin.com/project/XELelastic">Help To Translate </a></li>
+</ul>
 
 
 **Warning**
