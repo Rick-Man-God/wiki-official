@@ -69,6 +69,7 @@
 <li> <a href="https://link.xel.org/telegram">Telegram</a></li>
 <li> <a href="https://link.xel.org/discord">Discord</a></li>
 <li> <a href="https://link.xel.org/investfeed">InvestFeed</a></li>
+</ul>
 </p>
 
 
