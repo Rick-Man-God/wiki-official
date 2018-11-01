@@ -55,9 +55,11 @@
 <li><a href="forging">Forging</a></li>
 </ul>
 
-<img src="/uploads/github/github.png" alt="github" width="12" height="12"  > **GitHub Links**
+ **GitHub Links**
 -----
+<ul>
 <li><a href="github-links">GitHub Links</a></li>
+</ul>
 
 **Other Links**
 -----
