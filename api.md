@@ -11,13 +11,13 @@ Get Account
 -----
 Request:
 
-``text
+``
 http://localhost:17876/nxt?requestType=deleteAccountProperty&recipient=XEL-7A48-47JL-T7LD-D5FS3&property=testkey1&secretPhrase=iWontTellYou&feeNQT=100000000&deadline=60
 ``
 
 Response:
 
-`` text
+``
 {
   "signatureHash": "4ff58a03d056ee8a3fee89766bf8e4acd008c2147216...",
   "transactionJSON": {
