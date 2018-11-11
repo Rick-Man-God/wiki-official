@@ -57,9 +57,12 @@
 
  **GitHub Links**
 -----
-<ul>
-<li><a href="github-links">GitHub Links</a></li>
-</ul>
+- <a href="https://github.com/xel-software/xel-lite-wallet">Lite Wallet</a>
+- <a href="https://github.com/xel-software/xeline/releases">Xeline Wallet</a>
+- <a href="https://github.com/xel-software/xel-miner">Xel Miner</a>
+- <a href="https://github.com/xel-software/xel-block-explorer">Block Explorer</a>
+- <a href="https://github.com/xel-software/xel-installer-docker">Docker Based Installer</a>
+- <a href="https://github.com/xel-community">Community GitHub</a>
 
 **Other Links**
 -----
