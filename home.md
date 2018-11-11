@@ -82,7 +82,10 @@
 -  <a href="https://link.xel.org/discord">Discord</a>
 -  <a href="https://link.xel.org/investfeed">InvestFeed</a>
 
-
+**XEL api**
+-----
+>In development 
+>{.is-danger}
 
 **To Do**
 -----
