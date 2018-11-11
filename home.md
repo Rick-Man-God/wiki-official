@@ -5,10 +5,7 @@
 **Lite Wallet**
 -----
 
-- <a href="web-wallet">Web Wallet</a>
-- <a href="">Windows Tutorial Coming Soon</a>
-- <a href="mac-os-tutorial">MacOS Tutorial</a>
-- <a href="linux-tutoria">Linux Tutorial</a>
+- <a href="xel-lite-wallet-guide">Full guide</a>
 
 
 **XELINE Wallet**
@@ -23,7 +20,7 @@
 **XEL Miner**
 -----
 
-- <a href="xel-miner-guide">full guide</a>
+- <a href="xel-miner-guide">Full guide</a>
 
 
 **XEL (ePL)**
