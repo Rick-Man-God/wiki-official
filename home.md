@@ -1,5 +1,5 @@
 # XEL - community wiki
-<img src="/uploads/logo/3400-x-3400.png" alt="xel" width="16" height="16"  >     **Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .**
+<img src="/uploads/logo/3400-x-3400.png" alt="xel" width="16" height="16">     **Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .**
 
 
 **Lite Wallet**
@@ -14,7 +14,7 @@
 **XELINE Wallet**
 -----
 
-- <a href="about-exline">About</a>
+- <a href="about-xeline">About</a>
 - <a href="windows-xeline">Windows - Xeline Tutorial</a>
 - <a href="mac-os-xeline">MacOS - Xeline Tutorial</a>
 - <a href="linux-xeline">Linux - Xeline Tutorial</a>
@@ -94,6 +94,7 @@
 **To Do**
 -----
 
+
 - <a href="https://github.com/elastic-community/xel-community-tasks/labels/social%20medias">To Do</a>
 - <a href="https://crowdin.com/project/XELelastic">Help To Translate </a>
 
@@ -116,3 +117,4 @@
 >or if you live in a jurisdiction where this disclaimer does not have 100% validity
 >then you are not allowed to proceed and use XEL at all.
 >{.is-danger}
+
