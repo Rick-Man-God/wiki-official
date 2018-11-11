@@ -17,10 +17,10 @@ The installation procedure is documented in the project README : https://github.
 
 ## macOS
 
-<div style="width:60%;height:0px;position:relative;padding-bottom:78.148%;"><iframe src="https://streamable.com/s/0lsd6/tacmfb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:60%;height:0px;position:relative"><iframe src="https://streamable.com/s/0lsd6/tacmfb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 ## linux
 
-<div style="width:60%;height:0px;position:relative;padding-bottom:61.224%;"><iframe src="https://streamable.com/s/awnig/sdbuek" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></d
+<div style="width:60%;height:0px;position:relative"><iframe src="https://streamable.com/s/awnig/sdbuek" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></d
 
