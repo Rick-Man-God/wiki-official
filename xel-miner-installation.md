@@ -17,9 +17,8 @@ The installation procedure is documented in the project README : https://github.
 
 ## macOS
 
-[video](https://streamable.com/s/0lsd6/tacmfb){.vimeo}
-
+[video](https://streamable.com/s/0lsd6/tacmfb){.video}
 
 ## linux
 
-[video](https://streamable.com/s/awnig/sdbuek){.vimeo}
+[video](https://streamable.com/s/awnig/sdbuek){.video}
