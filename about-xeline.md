@@ -1,4 +1,4 @@
-<!-- TITLE: About Exline -->
+<!-- TITLE: About xeline -->
 
 ![Xelbig](/uploads/xeline/xelbig.png "Xelbig"){.pagelogo}
 
