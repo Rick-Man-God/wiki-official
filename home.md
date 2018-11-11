@@ -23,11 +23,7 @@
 **XEL Miner**
 -----
 
-- <a href="xel-miner-about">About</a>
-- <a href="windows-miner-tutorial">Windows Miner Tutorial</a>
-- <a href="mac-os-miner-tutorial">MacOS Miner Tutorial</a>
-- <a href="linux-miner-tutorial">Linux Miner Tutorial</a>
-- <a href="start-the-xel-miner">Start The Xel Miner</a>
+- <a href="xel-miner-guide">full guide</a>
 
 
 **XEL (ePL)**
