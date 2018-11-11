@@ -11,7 +11,7 @@ Get Account
 -----
 Request:
 
-`` text
+``text
 http://localhost:17876/nxt?requestType=deleteAccountProperty&recipient=XEL-7A48-47JL-T7LD-D5FS3&property=testkey1&secretPhrase=iWontTellYou&feeNQT=100000000&deadline=60
 ``
 
