@@ -43,7 +43,7 @@ http://localhost:17876/test
 
 API documentation:
 
-https://github.com/xel-community/xel-developers-tools/tree/master/api
+-  <a href="xel-api">XEL API</a>
 
 # Use NRS functions
 
