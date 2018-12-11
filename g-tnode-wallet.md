@@ -25,7 +25,7 @@
 # Shield - cold storage Screenshot
 
 <p align="center"> 
-<img src="https://github.com/GTnode/xel-cold-storage/blob/master/screenshot.jpg" width="650">
+<img src="https://raw.githubusercontent.com/GTnode/xel-cold-storage/master/screenshot.jpg" width="650">
 </p>
 
 <a href="https://github.com/GTnode/xel-cold-storage/blob/master/LICENSE.txt" title=""><img src="http://img.shields.io/:license-mit-blue.svg" alt="license"></a>
