@@ -96,8 +96,8 @@
 
 **XEL api**
 -----
->In development 
->{.is-danger}
+
+-  <a href="xel-api">XEL api</a>
 
 **To Do**
 -----
