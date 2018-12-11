@@ -94,10 +94,10 @@
 -  <a href="https://link.xel.org/discord">Discord</a>
 -  <a href="https://link.xel.org/investfeed">InvestFeed</a>
 
-**XEL api**
+**XEL API**
 -----
 
--  <a href="xel-api">XEL api</a>
+-  <a href="xel-api">XEL API</a>
 -  <a href="xel-api-description">XEL API Description</a>
 -  <a href="xel-kit-for-javascrip">XEL API Developer Tools</a>
 
