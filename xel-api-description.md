@@ -507,7 +507,7 @@ Set account information. POST only.
 -------------------
 # 5 Arbitrary Message System Operations
 -------------------
-
+-  <a href="xel-api#2-message-system-operations">Message System Operations API</a>
 -------------------
 ### 5.1 Decrypt From
 -------------------
@@ -760,7 +760,7 @@ Verify that a prunable message obtained from any source, when hashed, matches th
 -------------------
 # 6 Block Operations
 -------------------
-
+-  <a href="xel-api#3-block-operations">Block Operations API</a>
 -------------------
 ### 6.1 Get Block
 -------------------
@@ -874,7 +874,7 @@ Get Economic Cluster block data.
 -------------------
 # 7 Forging Operations
 -------------------
-
+-  <a href="xel-api#4-forging-operations">Forging Operations API</a>
 -------------------
 
 ### 7.1 Start / Stop / Get Forging
@@ -1170,7 +1170,7 @@ Set the remote node to use when in roaming and light client modes. POST only.
 -------------------
 # 10 Server Information Operations
 -------------------
-
+-  <a href="xel-api#6-server-information-operations">Server Information Operations API</a>
 -------------------
 ### 10.1 Event Register
 -------------------
@@ -1406,7 +1406,7 @@ Get the current time.
 -------------------
 # 11 Token Operations
 -------------------
-
+-  <a href="xel-api#8-token-operations">Token Operations API</a>
 -------------------
 ### 11.1 Decode File Token
 -------------------
@@ -1501,7 +1501,7 @@ Generate a token. POST only.
 -------------------
 # 12 Transaction Operations
 -------------------
-
+-  <a href="xel-api#7-transaction-operations">Transaction Operations API</a>
 -------------------
 ### 12.1 Broadcast Transaction
 -------------------
