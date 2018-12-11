@@ -904,6 +904,7 @@ Start or stop forging with an account, or check to see if an account is forging.
 -------------------
 
 Refer to Start / Stop / Get Forging.
+
 -------------------
 
 ### 7.1.2 Start Forging
