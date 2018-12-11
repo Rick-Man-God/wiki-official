@@ -120,7 +120,7 @@ The following JSON response fields are common to all API calls that create trans
 -------------------
 # 4 Account Operations
 -------------------
-- <a href="xel-api#1-account-operations">GAccount Operations API</a>
+- <a href="xel-api#1-account-operations">Account Operations API</a>
 -------------------
 ### 4.1 Get Account
 -------------------
