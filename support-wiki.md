@@ -10,10 +10,10 @@ Incomplete and confusing documentation is the top complaint about open source so
 # Your support is vital in enabling the Wiki to fulfil its mission and share it with the world.
 Please consider supporting Wiki 
 
-BTC   : 1KqSZXVETtXnWm7CnT3JkRQyPZ84BhWuy3   
-XEL   : XEL-MAYC-ZZ3Y-YX56-6NH52
-ETH   : 0x4B5448fe30DE26A46C04C660E41d5BD554867F03
-BCH   : 18umU3LbhnNEeAH8v53cKr9HheXAhq4oG2
-LTC    : LbXzudw7WjxEEG1ckTmjh9mxGhGbs2CPS8
-ETC    : 0x2bD235Bd8208287d27581a12d1b7Bbf18b8cA9aD
-DASH : XnhL3W5f6VAUdYBhEC7Zz1LzCqUFCPRHfa
+* BTC   : 1KqSZXVETtXnWm7CnT3JkRQyPZ84BhWuy3   
+* XEL   : XEL-MAYC-ZZ3Y-YX56-6NH52
+* ETH   : 0x4B5448fe30DE26A46C04C660E41d5BD554867F03
+* BCH   : 18umU3LbhnNEeAH8v53cKr9HheXAhq4oG2
+* LTC    : LbXzudw7WjxEEG1ckTmjh9mxGhGbs2CPS8
+* ETC    : 0x2bD235Bd8208287d27581a12d1b7Bbf18b8cA9aD
+* DASH : XnhL3W5f6VAUdYBhEC7Zz1LzCqUFCPRHfa
