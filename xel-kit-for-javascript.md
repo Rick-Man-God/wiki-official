@@ -164,4 +164,8 @@ function byteArrayToBigInteger(byteArray)
 
 NRS.generateToken = function(message, secretPhrase)
 
+### Links
+
+Link to JS files https://github.com/GTnode/XELKit/tree/master/js
+
 <a href="https://github.com/GTnode/XELKit/blob/master/LICENSE" title=""><img src="http://img.shields.io/:license-mit-blue.svg" alt="license"></a>
