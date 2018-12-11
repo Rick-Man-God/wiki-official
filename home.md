@@ -21,6 +21,11 @@
 - <a href="mac-os-xeline">MacOS - Xeline Tutorial</a>
 - <a href="linux-xeline">Linux - Xeline Tutorial</a>
 
+** Offline Wallet **
+-----
+
+- <a href="offline-wallet">Official Offline Wallet</a>
+
 
 **XEL Miner**
 -----
