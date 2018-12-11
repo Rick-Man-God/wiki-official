@@ -66,15 +66,3 @@ check the dedicated git project : https://github.com/xel-software/xel-installer-
 
   - UI Errors or Stacktraces?
     - report on github
-
-----
-## Further Reading
-
-  - on discord : https://discord.gg/5YhuSzd
-
-
-
-# Web Wallet
-
-The web wallet is available here : https://wallet.xel.org
-
