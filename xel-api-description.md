@@ -1,8 +1,9 @@
 <!-- TITLE: Xel Api Description -->
 
 -------------------
-# The XEL API
+# The XEL API Description
 -------------------
+- <a href="xel-api">XEL API</a>
 -------------------
 # 1 Description
 -------------------
