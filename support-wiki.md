@@ -7,7 +7,9 @@ We believes that open source is good for everyone. By being open and freely avai
 
 Incomplete and confusing documentation is the top complaint about open source software, so technical writers across XEL Community are working together to change that. They'll be sharing what they learn along the way, starting with this brief guide.
 
-1KqSZXVETtXnWm7CnT3JkRQyPZ84BhWuy3
- ![Btc](/uploads/coins-qr/btc.png "Btc")
-
+1KqSZXVETtXnWm7CnT3JkRQyPZ84BhWuy3                       XEL-MAYC-ZZ3Y-YX56-6NH52
+ ![Btc](/uploads/coins-qr/btc.png "Btc")                                  ![Xel](/uploads/coins-qr/xel.png "Xel")
+ 
+XEL-MAYC-ZZ3Y-YX56-6NH52
+![Xel](/uploads/coins-qr/xel.png "Xel")
 
