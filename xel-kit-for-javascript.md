@@ -163,3 +163,5 @@ NRS.strToUTF8Arr = function(str)
 function byteArrayToBigInteger(byteArray)
 
 NRS.generateToken = function(message, secretPhrase)
+
+<a href="https://github.com/GTnode/XELKit/blob/master/LICENSE" title=""><img src="http://img.shields.io/:license-mit-blue.svg" alt="license"></a>
