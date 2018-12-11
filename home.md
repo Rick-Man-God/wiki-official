@@ -129,3 +129,5 @@
 >then you are not allowed to proceed and use XEL at all.
 >{.is-danger}
 
+<a href="https://github.com/xel-community/wiki-official/blob/master/LICENSE" title=""><img src="https://img.shields.io/badge/license-GNU%20v3.0-green.svg" alt="license"></a>
+
