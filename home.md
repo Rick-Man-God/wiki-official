@@ -2,6 +2,11 @@
 <img src="/uploads/logo/3400-x-3400.png" alt="xel" width="16" height="16">     **Welcome to the XEL - community wiki, a great place to learn about XEL, an Open Source project driven by passionate developers and a supportive community .**
 
 
+**Support Wiki**
+-----
+- <a href="support-wiki">Support Us</a>
+
+
 **Lite Wallet**
 -----
 
