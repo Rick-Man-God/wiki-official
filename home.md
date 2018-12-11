@@ -98,6 +98,8 @@
 -----
 
 -  <a href="xel-api">XEL api</a>
+-  <a href="xel-api-description">XEL API Description</a>
+
 
 **To Do**
 -----
