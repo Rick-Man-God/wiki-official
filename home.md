@@ -99,6 +99,7 @@
 
 -  <a href="xel-api">XEL api</a>
 -  <a href="xel-api-description">XEL API Description</a>
+-  <a href="xel-kit-for-javascrip">XEL API Developer Tools</a>
 
 
 **To Do**
