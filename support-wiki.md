@@ -7,8 +7,8 @@ We believes that open source is good for everyone. By being open and freely avai
 
 Incomplete and confusing documentation is the top complaint about open source software, so technical writers across XEL Community are working together to change that. They'll be sharing what they learn along the way, starting with this brief guide.
 
-# Your support is vital in enabling the Wiki to fulfil its mission and share it with the world.
-Please consider supporting Wiki 
+# Your support is vital in enabling the Wiki to fulfil its mission to share it with the world.
+Please consider supporting WIKI . Funds will be used to pay for servers and for developers .
 
 * BTC   : 1KqSZXVETtXnWm7CnT3JkRQyPZ84BhWuy3   
 * XEL   : XEL-MAYC-ZZ3Y-YX56-6NH52
