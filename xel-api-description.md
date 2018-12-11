@@ -875,7 +875,9 @@ Get Economic Cluster block data.
 -------------------
 
 -------------------
+
 ### 7.1 Start / Stop / Get Forging
+
 -------------------
 
 Start or stop forging with an account, or check to see if an account is forging. POST only.
