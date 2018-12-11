@@ -26,6 +26,7 @@
 -----
 
 - <a href="offline-wallet">Official Offline Wallet</a>
+- <a href="g-tnode-wallet">GTnode - Offline Wallet</a>
 
 
 **XEL Miner**
