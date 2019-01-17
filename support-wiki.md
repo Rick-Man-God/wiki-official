@@ -10,6 +10,8 @@ Incomplete and confusing documentation is the top complaint about open source so
 # Your support is vital in enabling the Wiki to fulfil its mission to share it with the world.
 Please consider supporting WIKI . Funds will be used to pay for servers and for developers .
 
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support WIKI on Ko-fi', '#46b798', 'T6T4OWBW');kofiwidget2.draw();</script> 
+
 * BTC   : 1KqSZXVETtXnWm7CnT3JkRQyPZ84BhWuy3   
 * XEL   : XEL-MAYC-ZZ3Y-YX56-6NH52
 * ETH   : 0x4B5448fe30DE26A46C04C660E41d5BD554867F03
