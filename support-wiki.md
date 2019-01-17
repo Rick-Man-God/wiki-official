@@ -19,3 +19,5 @@ Please consider supporting WIKI . Funds will be used to pay for servers and for 
 * LTC    : LbXzudw7WjxEEG1ckTmjh9mxGhGbs2CPS8
 * ETC    : 0x2bD235Bd8208287d27581a12d1b7Bbf18b8cA9aD
 * DASH : XnhL3W5f6VAUdYBhEC7Zz1LzCqUFCPRHfa
+* DOGE : DP9J4NUrw9aRBDJNAAP3VfoCvCcb3HQHaQ
+* DGB  : DPEM5uxQZNXwbGf5Qf7997aNaAskozB5TC
