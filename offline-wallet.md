@@ -1,4 +1,3 @@
-
 # XEL Paper Wallet
 
 * OFFLINE creation of accounts for cold storage. With XEL Paper Wallet, the passphrase to your brain wallet is NEVER exposed to anyone on the internet .
@@ -20,6 +19,10 @@ An account you create with this offline paper wallet generator is an account whi
 Your xel account is yours, not ours. 
 XEL team cannot be held responsible if you loose your xel passphrase or if a 3rd party gets a hold of it, or for any other consequence of you having lost it. 
 YOUR XEL PASSPHRASE IS THE ONLY WAY TO ACCESS YOUR XEL ACCOUNT. KEEP IT SAFE! We do NOT have access to your passphrase, so we CANNOT keep backups of your passphrase for you.
+
+# Link
+https://github.com/xel-software/xel-paper-wallet/releases
+
 
 <a href="https://github.com/xel-community/xel-paper-wallet/blob/master/LICENSE.txt" title=""><img src="http://img.shields.io/:license-mit-blue.svg" alt="license"></a>
 
