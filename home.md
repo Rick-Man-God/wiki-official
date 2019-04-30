@@ -82,16 +82,14 @@
 **Social Links**
 -----
 
-- <a href="https://link.xel.org/coinmarketcap">CoinMarketCap</a>
-- <a href="https://link.xel.org/youtube">Youtube</a>
--  <a href="https://twitter.com/elastic_coin">Twitter</a>
--  <a href="https://link.xel.org/facebook">Facebook</a>
--  <a href="https://link.xel.org/reddit">Reddit</a>
--  <a href="https://link.xel.org/bitcointalk">Bitcointalk</a>
--  <a href="https://link.xel.org/medium">Medium</a>
--  <a href="https://link.xel.org/telegram">Telegram</a>
--  <a href="https://link.xel.org/discord">Discord</a>
--  <a href="https://link.xel.org/investfeed">InvestFeed</a>
+- <a href="https://link.xel-project.org/coinmarketcap">CoinMarketCap</a>
+-  <a href="https://twitter.com/xel_project">Twitter</a>
+-  <a href="https://link.xel-project.org/reddit">Reddit</a>
+-  <a href="https://link.xel-project.org/bitcointalk">Bitcointalk</a>
+-  <a href="https://link.xel-project.org/medium">Medium</a>
+-  <a href="https://link.xel-project.org/telegram">Telegram</a>
+-  <a href="https://link.xel-project.org/discord">Discord</a>
+
 
 **XEL API**
 -----
