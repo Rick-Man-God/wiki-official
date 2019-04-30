@@ -72,9 +72,9 @@
 **Other Links**
 -----
 
-- <a href="https://explorer.xel.org/">Explorer</a>
-- <a href="https://xel.org/">XEL Website</a>
-- <a href="https://github.com/elastic-community/wiki-official">Wiki on GitHub</a>
+- <a href="https://explorer.xel-project.org/">Explorer</a>
+- <a href="https://xel-project.org">XEL Website</a>
+- <a href="https://github.com/xel-community/wiki-officiall">Wiki on GitHub</a>
 - <a href="https://m.do.co/c/2aac5da46414">Digitalocean to Rent a Server</a>
 - <a href="https://www.vultr.com/?ref=7552200">Vultr to Rent a Server</a>
 
@@ -105,7 +105,7 @@
 -----
 
 
-- <a href="https://github.com/elastic-community/xel-community-tasks/labels/social%20medias">To Do</a>
+- <a href="https://github.com/xel-community/xel-community-tasks/labels/social%20medias">To Do</a>
 - <a href="https://crowdin.com/project/XELelastic">Help To Translate </a>
 
 
@@ -129,4 +129,3 @@
 >{.is-danger}
 
 <a href="https://github.com/xel-community/wiki-official/blob/master/LICENSE" title=""><img src="https://img.shields.io/badge/license-GNU%20v3.0-green.svg" alt="license"></a>
-
