@@ -6,7 +6,7 @@
 **Lite Wallet**
 -----
 
-- <a href="xel-lite-wallet-guide">Full guide</a>
+- <a href="xel-lite-wallet-guide.md">Full guide</a>
 
 
 **XELINE Wallet**
